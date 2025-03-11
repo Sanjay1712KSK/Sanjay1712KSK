@@ -1,69 +1,30 @@
-<!DOCTYPE html>
-<html lang="en">
+<h1 align="center">Hi 👋, I'm Sanjay Kumar S</h1>
+<h3 align="center">I am a dedicated 2nd-year B.Tech student specializing in Computer Science with a focus on AI and ML at SRMIST, Kattankulathur. Passionate about software development, I leverage the power of Linux to create efficient and innovative solutions. With a strong foundation in AI/ML, I actively explore new technologies and seek impactful projects. I am eager to collaborate with like-minded professionals and contribute to the tech industry through continuous learning and problem-solving.</h3>
 
-<head>
-  <meta charset="UTF-8" />
-  <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
-  <meta name="viewport"
-    content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0" />
-  <meta name="description" content="Awesome GitHub Profile Readme Templates" />
-  <title>Awesome GitHub Profile Readme Templates</title>
-  <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/docsify-sidebar-collapse/dist/sidebar-folder.min.css" />
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=sanjay1712ksk&label=Profile%20views&color=0e75b6&style=flat" alt="sanjay1712ksk" /> </p>
 
-  <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/docsify-darklight-theme@3/dist/docsify-themeable/style.min.css"
-    type="text/css">
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sanjay1712ksk" alt="sanjay1712ksk" /></a> </p>
 
-  <!-- docsify-themeable styles-->
-  <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/docsify-themeable@0/dist/css/theme-simple.css" title="light">
-  <link rel="stylesheet alternative" href="//cdn.jsdelivr.net/npm/docsify-themeable@0/dist/css/theme-simple-dark.css"
-    title="dark">
+- 🔭 I’m currently working on [**MediSphere** is a **healthcare database management system** designed to efficiently store, manage, and retrieve patient records, prescriptions, and medical histories. Built on **MySQL**, it ensures secure and organized data handling for hospitals and clinics. The system enables seamless integration with healthcare applications, improving accessibility and decision-making for medical professionals. With a focus on **data security, reliability, and scalability**, **MediSphere** aims to streamline patient management, enhance operational efficiency, and support AI-driven healthcare analytics. 🚀](https://github.com/Sanjay1712KSK/MediSphere)
 
-  <style>
-    .sidebar-nav li>a[href^="/"]:not([href*="?id="]),
-    .sidebar-nav li>a[href^="/"]:not([href*="?id="])~ul a,
-    .sidebar-nav li>a[href^="#/"]:not([href*="?id="]),
-    .sidebar-nav li>a[href^="#/"]:not([href*="?id="])~ul a {
-      padding: 0;
-    }
+- 🌱 I’m currently learning **MongoDB,React.JS,Node.JS,JS**
 
-    .sidebar-nav li.collapse>a[href^="/"]:not([href*="?id="]):not(:only-child),
-    .sidebar-nav li.collapse>a[href^="#/"]:not([href*="?id="]):not(:only-child),
-    .sidebar-nav li.active>a[href^="/"]:not([href*="?id="]):not(:only-child),
-    .sidebar-nav li.active>a[href^="#/"]:not([href*="?id="]):not(:only-child) {
-      background: transparent;
-    }
-  </style>
-</head>
+- 📫 How to reach me **sanjayksk1712@gmail.com**
 
-<body>
-  <div id="app">Please wait...</div>
+- 🎯 Fun Facts About Sanjay **🚀 Tech Enthusiast – Passionate about AI, ML, and software development. Always exploring new tech! 🎮 Gamer – Loves playing video games (including GTA 5 Enhanced Legacy Edition!). 🐧 Linux Lover – Enjoys working with Linux and its versatility. ♟️ Strategist – Chess player who enjoys the intellectual challenge of the game. 💡 Innovator – Loves building and experimenting with new projects like MediSphere. ⚡ Night Owl – Likely to be coding or gaming late into the night. ☕ Caffeine-Driven – Coffee (or maybe energy drinks?) keeps the coding sessions alive! Let me know if you want to add or tweak anything! 😄**
 
-  <script>
-    window.$docsify = {
-      search: [
-        '/_sidebar',
-      ],
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/sanjaykumarksk/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/sanjaykumarksk/" height="30" width="40" /></a>
+<a href="https://instagram.com/https://www.instagram.com/ordinarymanofearth1218/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/ordinarymanofearth1218/" height="30" width="40" /></a>
+</p>
 
-      name: 'Awesome Github Profile Readme Templates',
-      basePath: "https://raw.githubusercontent.com/durgeshsamariya/awesome-github-profile-readme-templates/master/",
-      loadSidebar: true,
-      auto2top: true,
-      sidebarDisplayLevel: 1,
-    }
-  </script>
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://mariadb.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sanjay1712ksk&show_icons=true&locale=en&layout=compact" alt="sanjay1712ksk" /></p>
 
-  <script src="//cdn.jsdelivr.net/npm/docsify/lib/docsify.min.js"></script>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sanjay1712ksk&show_icons=true&locale=en" alt="sanjay1712ksk" /></p>
 
-  <!-- plugins -->
-  <script src="//cdn.jsdelivr.net/npm/docsify-darklight-theme@3/dist/docsify-themeable/main.min.js"
-    type="text/javascript">
-    </script>
-  <script src="//cdn.jsdelivr.net/npm/docsify-darklight-theme@3/dist/docsify-themeable/index.min.js"
-    type="text/javascript">
-    </script>
-  <script src="//cdn.jsdelivr.net/npm/docsify-sidebar-collapse/dist/docsify-sidebar-collapse.min.js"></script>
-  <script src="//cdn.jsdelivr.net/npm/docsify/lib/plugins/search.min.js"></script>
-</body>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sanjay1712ksk&" alt="sanjay1712ksk" /></p>
 
-</html>
