@@ -2,10 +2,10 @@
 
 I am a dedicated 2nd-year B.Tech student specializing in **Computer Science with a focus on AI & ML** at **SRM IST**.  
 Passionate about software development, Linux, and creating innovative solutions.
-<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-
 
 ![Profile Views](https://komarev.com/ghpvc/?username=sanjay1712ksk&label=Profile%20Views&color=0e75b6&style=flat)
+
+<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 
 ## 🔗 Connect with me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/sanjaykumarksk/)
@@ -24,13 +24,19 @@ Passionate about software development, Linux, and creating innovative solutions.
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="50" height="50"/> 
 </p>
 
+## 🚀 AI & ML Passion
+<img src="https://media.giphy.com/media/UqZ5T1V80O3bL9K2uV/giphy.gif" width="500px"/>
+
 ## 📊 GitHub Stats:
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=sanjay1712ksk&show_icons=true&locale=en&layout=compact)  
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sanjay1712ksk&show_icons=true&count_private=true&theme=radical)  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=sanjay1712ksk&theme=dark&hide_border=true)  
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=sanjay1712ksk&theme=dark&hide_border=true)
 
-### 🚀 Total Contributions:
+## 🎯 Total Contributions:
 ![GitHub Commits](https://badges.pufler.dev/commits/yearly/sanjay1712ksk)
+
+## 🎮 Developer Vibes:
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500px"/>
 
 ## 🎯 Visitor Count:
 ![Visitor Count](https://komarev.com/ghpvc/?username=sanjay1712ksk&label=Profile%20Visitors&color=0e75b6&style=flat)
