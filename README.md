@@ -25,7 +25,7 @@ Passionate about software development, Linux, and creating innovative solutions.
 ## 📊 GitHub Stats:
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=sanjay1712ksk&show_icons=true&locale=en&layout=compact)  
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sanjay1712ksk&show_icons=true&count_private=true&theme=radical)  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sanjay1712ksk&theme=radical)  
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=sanjay1712ksk&theme=dark&hide_border=true)  
 
 ### 🚀 Total Contributions:
 ![GitHub Commits](https://badges.pufler.dev/commits/yearly/sanjay1712ksk)
