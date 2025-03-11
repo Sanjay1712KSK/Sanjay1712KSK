@@ -25,19 +25,13 @@ Passionate about software development, Linux, and creating innovative solutions.
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="50" height="50"/> 
 </p>
 
-<img src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" width="500px"/>
-
 ## 🚀 AI & ML Passion
 <img src="https://media.giphy.com/media/UqZ5T1V80O3bL9K2uV/giphy.gif" width="500px"/>
-
-<img src="https://media.giphy.com/media/26AHG5KGFxSkUWw1i/giphy.gif" width="500px"/>
 
 ## 📊 GitHub Stats:
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=sanjay1712ksk&show_icons=true&locale=en&layout=compact)  
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sanjay1712ksk&show_icons=true&count_private=true&theme=radical)  
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=sanjay1712ksk&theme=dark&hide_border=true)
-
-<img src="https://media.giphy.com/media/l0HlBO7eyXzSZkJri/giphy.gif" width="500px"/>
 
 ## 🎯 Total Contributions:
 ![GitHub Commits](https://badges.pufler.dev/commits/yearly/sanjay1712ksk)
