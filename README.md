@@ -43,13 +43,6 @@
 
 ---
 
-## 🚀 AI & ML Passion
-<p align="center">
-  <img src="https://media.giphy.com/media/UqZ5T1V80O3bL9K2uV/giphy.gif" width="500px"/>
-</p>
-
----
-
 ## 📊 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sanjay1712ksk&show_icons=true&locale=en&layout=compact" alt="Top Langs"/>
