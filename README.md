@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sanjay Kumar S</h1>
-<h3 align="center">A dedicated 2nd-year B.Tech student specializing in Computer Science with a focus on AI and ML at SRMIST, Kattankulathur. Passionate about software development, I leverage Linux to create efficient and innovative solutions. With a strong AI/ML foundation, I actively explore new technologies and impactful projects. I am eager to collaborate with like-minded professionals and contribute to the tech industry through continuous learning and problem-solving.</h3>
+<h3 align="center">A dedicated 3rd-year B.Tech student specializing in Computer Science with a focus on AI and ML at SRMIST, Kattankulathur. Passionate about software development, I leverage Linux to create efficient and innovative solutions. With a strong AI/ML foundation, I actively explore new technologies and impactful projects. I am eager to collaborate with like-minded professionals and contribute to the tech industry through continuous learning and problem-solving.</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=sanjay1712ksk&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
