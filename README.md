@@ -1,34 +1,23 @@
 👋 Hi, I'm Sanjay Kumar S
 Autonomous Drone Simulation • Unreal Engine • AI/ML
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=sanjay1712ksk&label=Profile%20views&color=0e75b6&style=flat" /> </p>
-🚁 What I’m Working On
-<p align="center"> <b>Drone Simulation • Unreal Engine 5 • RTX Sensors • Python Automation</b> </p> <p align="center"> I build <b>high-fidelity autonomous drone simulations</b> using Unreal Engine and COSYS-AirSim, focusing on <b>automation, sensor realism, and data generation</b>. </p>
-🧠 Core Focus Areas
-<p align="center"> 🚁 Autonomous Drone Navigation & Control<br> 🎮 Unreal Engine 5 Simulation Environments<br> ⚡ RTX-Accelerated Sensor Simulation (LiDAR, RGB, Depth)<br> 🐍 Python RPC Automation using COSYS-AirSim<br> 📊 Large-Scale Data Logging & Dataset Creation </p>
-🛠️ Simulation & Automation Stack
-<p align="center"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/unrealengine/unrealengine-original.svg" width="45"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="45"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="45"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="45"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nvidia/nvidia-original.svg" width="45"/> </p> <p align="center"> <b>Unreal Engine 5</b> · <b>COSYS-AirSim (UE Plugin)</b> · <b>Python RPC APIs</b> · <b>NVIDIA RTX</b> </p>
+🚁 Areas of Expertise
+<p align="center"> <b>Drone Simulation • Unreal Engine 5 • RTX Sensors • Python Automation</b> </p> <p align="center"> Experienced in building <b>high-fidelity autonomous drone simulations</b> using Unreal Engine and COSYS-AirSim, with strong emphasis on <b>Python RPC automation, realistic sensor simulation, and structured data logging</b>. </p>
+🛠️ Skills & Technical Expertise
+💻 Programming & Core Languages
+<p align="center"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="45"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="45"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="45"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="45"/> </p> <p align="center"> Python · C · C++ · Java </p>
+🚁 Simulation, Automation & Systems
+<p align="center"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/unrealengine/unrealengine-original.svg" width="45"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="45"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nvidia/nvidia-original.svg" width="45"/> </p> <p align="center"> Unreal Engine 5 · COSYS-AirSim (Unreal Engine Plugin) · Python RPC APIs · Linux · NVIDIA RTX </p>
+📊 Databases & Backend
+<p align="center"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="45"/> </p> <p align="center"> MySQL (Python & JDBC) </p>
+🎨 UI / Tools
+<p align="center"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" width="45"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" width="45"/> </p> <p align="center"> Figma · Flutter (Dart) · Elementor </p>
+⚙️ Platforms & Environment
+<p align="center"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="45"/> </p> <p align="center"> Linux · UNIX · System-Level Development </p>
 
-Dataset Work (In Progress)
-<p align="center"> Creating <b>synthetic drone simulation datasets</b><br> 🧠 Designed for perception & navigation research<br> 🚀 <b>Public release on Kaggle — coming soon</b> </p>
+🛠️ Simulation & Automation Stack
+<p align="center"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/unrealengine/unrealengine-original.svg" width="45"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="45"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="45"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="45"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nvidia/nvidia-original.svg" width="45"/> </p> <p align="center"> <b>Unreal Engine 5</b> · <b>COSYS-AirSim</b> · <b>Python RPC Automation</b> · <b>NVIDIA RTX Simulation</b> </p>
 🔗 Connect With Me
 <p align="center"> <a href="https://www.linkedin.com/in/sanjaykumarksk/" target="_blank"> <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="40"/> </a> <a href="https://www.instagram.com/sanjaykumarrrs/" target="_blank"> <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" width="40"/> </a> </p>
-
-📊 GitHub Stats
-
-<table align="center">
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=sanjay1712ksk&show_icons=true&include_all_commits=true&theme=github_dark" />
-    </td>
-    <td>
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=sanjay1712ksk&theme=github_dark" />
-    </td>
-  </tr>
-</table>
-
-<p align="center">
-  <img 
-    src="https://github-readme-activity-graph.vercel.app/graph?username=sanjay1712ksk&theme=github-compact&hide_border=true"
-  />
-</p>
-
+📊 GitHub Activity
+<table align="center"> <tr> <td> <img src="https://github-readme-stats.vercel.app/api?username=sanjay1712ksk&show_icons=true&include_all_commits=true&theme=github_dark" /> </td> <td> <img src="https://github-readme-streak-stats.herokuapp.com/?user=sanjay1712ksk&theme=github_dark" /> </td> </tr> </table> <p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=sanjay1712ksk&theme=github-compact&hide_border=true" /> </p>
