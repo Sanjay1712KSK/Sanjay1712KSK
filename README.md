@@ -27,6 +27,8 @@ Dataset Work (In Progress)
 </table>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanjay1712ksk&layout=compact&theme=github_dark" />
+  <img 
+    src="https://github-readme-activity-graph.vercel.app/graph?username=sanjay1712ksk&theme=github-compact&hide_border=true"
+  />
 </p>
 
