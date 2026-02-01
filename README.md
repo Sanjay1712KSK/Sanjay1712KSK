@@ -7,7 +7,7 @@ I build simulation-driven systems and experiment with reinforcement learning,
 computer vision, and scalable software design.
 Currently exploring AI control systems and Unreal Engine–based simulations.
 
-### 🛠 Tech Stack
+##  Tech Stack
 ![My Skills](https://skillicons.dev/icons?i=python,cpp,js,pytorch,react,nodejs,git,linux)
 
 
