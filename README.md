@@ -1,4 +1,7 @@
 ## Hi 👋 I'm Sanjay Kumar S
+<p align="center">
+  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="350"/>
+</p>
 3rd Year Computer Science Student | AI • Reinforcement Learning • Simulation
 
 ## About Me
@@ -21,8 +24,4 @@ Public demos, documentation, or partial releases will be shared once the project
 ![Sanjay1712KSK's GitHub stats](https://git-hub-stats-card-generator.vercel.app/api/svg?username=Sanjay1712KSK&theme=default&chart=bars)
 ![Sanjay1712KSK's Contribution stats](https://git-hub-stats-card-generator.vercel.app/api/svg?username=Sanjay1712KSK&type=contributions&theme=default)
 ![Sanjay1712KSK's Top Repos](https://git-hub-stats-card-generator.vercel.app/api/svg?username=Sanjay1712KSK&type=top-repos&theme=default)
-
-<p align="center">
-  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="350"/>
-</p>
 
