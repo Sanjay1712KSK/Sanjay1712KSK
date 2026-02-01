@@ -76,7 +76,7 @@ Public demos, documentation, or selective releases will be shared once the syste
   />
 </p>
 <!-- ================= SOCIAL LINKS ================= -->
-<h2>Connect with me</h2>
+<h2>Get In Touch</h2>
 
 <p align="center">
   <a href="https://www.linkedin.com/" target="_blank">
