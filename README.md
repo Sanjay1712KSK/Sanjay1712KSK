@@ -1,5 +1,5 @@
 <!-- ================= HEADER ================= -->
-<h1 align="center">Hi 👋 I'm Sanjay Kumar S</h1>
+<h1 align="center">Hi 😊 I'm Sanjay Kumar S</h1>
 
 <p align="center">
   <img 
@@ -40,7 +40,7 @@ Public demos, documentation, or partial releases will be shared once the project
 <hr />
 
 <!-- ================= TECH STACK ================= -->
-<h2>🛠 Tech Stack</h2>
+<h2>My Tech Stack</h2>
 
 <p align="left">
   <img 
@@ -52,7 +52,7 @@ Public demos, documentation, or partial releases will be shared once the project
 <hr />
 
 <!-- ================= GITHUB STATS ================= -->
-<h2>📊 GitHub Activity</h2>
+<h2> My GitHub Activity</h2>
 
 <p align="center">
   <img 
@@ -81,8 +81,6 @@ Public demos, documentation, or partial releases will be shared once the project
 <hr />
 
 <!-- ================= PROFILE METRICS ================= -->
-<h2>📈 Profile Metrics</h2>
-
 <p align="center">
   <img 
     src="https://komarev.com/ghpvc/?username=Sanjay1712KSK&label=Profile%20Views&color=0e75b6&style=for-the-badge"
