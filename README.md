@@ -55,92 +55,81 @@ and <strong>software engineering</strong>, with an emphasis on
 <strong>practical implementation</strong> and <strong>real-world problem solving</strong>.
 </p>
 
-<table width="100%">
-  <tr>
-    <td valign="top" width="50%">
-      <h3>🧠 Drug MRP Price Prediction</h3>
-      <p><strong>Tags:</strong> Machine Learning • Data Analysis</p>
-      <p>
-        Built a predictive model to estimate drug MRP values using historical pricing data.
-        Focused on data preprocessing, feature engineering, and model evaluation.
-      </p>
-      <p>
-        🔗 <a href="https://github.com/Sanjay1712KSK/Drug-MRP-Price-Prediction" target="_blank">
-        View Repository</a>
-      </p>
-    </td>
+<h3>🧠 Drug MRP Price Prediction</h3>
+<p><strong>Tags:</strong> Machine Learning • Data Analysis</p>
+<p>
+Built a predictive model to estimate drug MRP values using historical pricing data.
+Focused on data preprocessing, feature engineering, and model evaluation.
+</p>
+<p>
+🔗 <a href="https://github.com/Sanjay1712KSK/Drug-MRP-Price-Prediction" target="_blank">
+View Repository</a>
+</p>
 
-    <td valign="top" width="50%">
-      <h3>👁️ Padayappa Paarvai</h3>
-      <p><strong>Tags:</strong> Computer Vision • Image Processing</p>
-      <p>
-        Explores visual perception through image-based analysis,
-        focusing on extracting meaningful insights from visual data.
-      </p>
-      <p>
-        🔗 <a href="https://github.com/Sanjay1712KSK/Padayappa-Paarvai" target="_blank">
-        View Repository</a>
-      </p>
-    </td>
-  </tr>
+<br />
 
-  <tr>
-    <td valign="top" width="50%">
-      <h3>🤖 Rule-Based Chatbot with UI</h3>
-      <p><strong>Tags:</strong> NLP • Software Engineering</p>
-      <p>
-        Designed a rule-based conversational chatbot with a user interface,
-        emphasizing deterministic logic and structured dialog flow.
-      </p>
-      <p>
-        🔗 <a href="https://github.com/Sanjay1712KSK/Rule-Based-Chatbot-with-UI" target="_blank">
-        View Repository</a>
-      </p>
-    </td>
+<h3>👁️ Padayappa Paarvai</h3>
+<p><strong>Tags:</strong> Computer Vision • Image Processing</p>
+<p>
+Explores visual perception through image-based analysis,
+focusing on extracting meaningful insights from visual data.
+</p>
+<p>
+🔗 <a href="https://github.com/Sanjay1712KSK/Padayappa-Paarvai" target="_blank">
+View Repository</a>
+</p>
 
-    <td valign="top" width="50%">
-      <h3>🌾 Agro Visionaries</h3>
-      <p><strong>Tags:</strong> Applied Tech • Team Project</p>
-      <p>
-        A collaborative solution addressing real-world agricultural challenges
-        through technology-driven decision support.
-      </p>
-      <p>
-        🔗 <a href="https://github.com/KBSanchai/Agro-Visionaries-by-Asteri-PVT" target="_blank">
-        View Repository</a>
-      </p>
-    </td>
-  </tr>
+<br />
 
-  <tr>
-    <td valign="top" width="50%">
-      <h3>🐄 Cattle-Go</h3>
-      <p><strong>Tags:</strong> Application Development • Domain Solution</p>
-      <p>
-        A domain-focused application for cattle management,
-        designed around practical workflows and usability.
-      </p>
-      <p>
-        🔗 <a href="https://github.com/Sanjay1712KSK/Cattle-Go" target="_blank">
-        View Repository</a>
-      </p>
-    </td>
+<h3>🤖 Rule-Based Chatbot with UI</h3>
+<p><strong>Tags:</strong> NLP • Software Engineering</p>
+<p>
+Designed a rule-based conversational chatbot with a user interface,
+emphasizing deterministic logic and structured dialog flow.
+</p>
+<p>
+🔗 <a href="https://github.com/Sanjay1712KSK/Rule-Based-Chatbot-with-UI" target="_blank">
+View Repository</a>
+</p>
 
-    <td valign="top" width="50%">
-      <h3>🎮 Tic-Tac-Toe</h3>
-      <p><strong>Tags:</strong> Programming Fundamentals</p>
-      <p>
-        A clean implementation of the classic game demonstrating
-        core logic, state management, and user interaction.
-      </p>
-      <p>
-        🔗 <a href="https://github.com/Sanjay1712KSK/Tic-Tac-Toe" target="_blank">
-        View Repository</a>
-      </p>
-    </td>
-    
-  </tr>
-</table>
+<br />
+
+<h3>🌾 Agro Visionaries</h3>
+<p><strong>Tags:</strong> Applied Tech • Team Project</p>
+<p>
+A collaborative solution addressing real-world agricultural challenges
+through technology-driven decision support.
+</p>
+<p>
+🔗 <a href="https://github.com/KBSanchai/Agro-Visionaries-by-Asteri-PVT" target="_blank">
+View Repository</a>
+</p>
+
+<br />
+
+<h3>🐄 Cattle-Go</h3>
+<p><strong>Tags:</strong> Application Development • Domain Solution</p>
+<p>
+A domain-focused application for cattle management,
+designed around practical workflows and usability.
+</p>
+<p>
+🔗 <a href="https://github.com/Sanjay1712KSK/Cattle-Go" target="_blank">
+View Repository</a>
+</p>
+
+<br />
+
+<h3>🎮 Tic-Tac-Toe</h3>
+<p><strong>Tags:</strong> Programming Fundamentals</p>
+<p>
+A clean implementation of the classic game demonstrating
+core logic, state management, and user interaction.
+</p>
+<p>
+🔗 <a href="https://github.com/Sanjay1712KSK/Tic-Tac-Toe" target="_blank">
+View Repository</a>
+</p>
 
 <p>
 <em>
@@ -148,6 +137,7 @@ Advanced projects involving simulation-based control and reinforcement learning
 are currently under active development in private repositories.
 </em>
 </p>
+
 
 <h2>📊 GitHub Activity</h2>
 
