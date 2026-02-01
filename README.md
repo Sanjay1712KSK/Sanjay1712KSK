@@ -22,7 +22,7 @@ Public demos, documentation, or partial releases will be shared once the project
 ![Sanjay1712KSK's Contribution stats](https://git-hub-stats-card-generator.vercel.app/api/svg?username=Sanjay1712KSK&type=contributions&theme=default)
 ![Sanjay1712KSK's Top Repos](https://git-hub-stats-card-generator.vercel.app/api/svg?username=Sanjay1712KSK&type=top-repos&theme=default)
 
-
 <p align="center">
-  <img src="https://media.giphy.com/media/QNFhOolVeCzPQ2Mx85/giphy.gif" width="400"/>
+  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="350"/>
 </p>
+
