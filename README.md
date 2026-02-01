@@ -75,27 +75,6 @@ Public demos, documentation, or selective releases will be shared once the syste
     alt="Top repositories"
   />
 </p>
-
-<!-- ================= PROFILE METRICS ================= -->
-<p align="center">
-  <img 
-    src="https://komarev.com/ghpvc/?username=Sanjay1712KSK&label=Profile%20Views&color=1f6feb&style=for-the-badge"
-    alt="Profile views"
-  />
-</p>
-
-<p align="center">
-  <img 
-    src="https://img.shields.io/github/followers/Sanjay1712KSK?label=Followers&style=for-the-badge&color=1f6feb"
-    alt="GitHub followers"
-  />
-  &nbsp;
-  <img 
-    src="https://img.shields.io/github/stars/Sanjay1712KSK?label=Total%20Stars&style=for-the-badge&color=1f6feb"
-    alt="GitHub stars"
-  />
-</p>
-
 <!-- ================= SOCIAL LINKS ================= -->
 <h2>Connect with me</h2>
 
@@ -118,4 +97,23 @@ Public demos, documentation, or selective releases will be shared once the syste
 <!-- ================= FOOTER ================= -->
 <p align="center">
   <em>Building systems that learn, not just run.</em>
+</p>
+
+<p align="center">
+  <img 
+    src="https://komarev.com/ghpvc/?username=Sanjay1712KSK&label=Profile%20Views&color=1f6feb&style=for-the-badge"
+    alt="Profile views"
+  />
+</p>
+
+<p align="center">
+  <img 
+    src="https://img.shields.io/github/followers/Sanjay1712KSK?label=Followers&style=for-the-badge&color=1f6feb"
+    alt="GitHub followers"
+  />
+  &nbsp;
+  <img 
+    src="https://img.shields.io/github/stars/Sanjay1712KSK?label=Total%20Stars&style=for-the-badge&color=1f6feb"
+    alt="GitHub stars"
+  />
 </p>
