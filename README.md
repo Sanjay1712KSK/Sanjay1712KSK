@@ -4,7 +4,7 @@
 <p align="center">
   <img 
     src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" 
-    width="350" 
+    width="360"
     alt="Coding animation"
   />
 </p>
@@ -20,10 +20,10 @@
 <h2>About Me</h2>
 
 <p>
-I build simulation-driven systems and experiment with reinforcement learning,
-computer vision, and scalable software design.
+I build <strong>simulation-driven systems</strong> and experiment with 
+<strong>reinforcement learning</strong>, computer vision, and scalable software design.
 <br /><br />
-Currently exploring <strong>AI control systems</strong> and 
+Currently focused on <strong>AI control systems</strong> and 
 <strong>Unreal Engine–based simulations</strong>.
 </p>
 
@@ -43,7 +43,10 @@ Public demos, documentation, or partial releases will be shared once the project
 <h2>🛠 Tech Stack</h2>
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,cpp,js,pytorch,react,nodejs,git,linux" alt="Tech stack icons" />
+  <img 
+    src="https://skillicons.dev/icons?i=python,cpp,js,pytorch,react,nodejs,git,linux&theme=dark" 
+    alt="Tech stack icons"
+  />
 </p>
 
 <hr />
@@ -53,25 +56,49 @@ Public demos, documentation, or partial releases will be shared once the project
 
 <p align="center">
   <img 
-    src="https://git-hub-stats-card-generator.vercel.app/api/svg?username=Sanjay1712KSK&theme=default&chart=bars" 
+    src="https://git-hub-stats-card-generator.vercel.app/api/svg?username=Sanjay1712KSK&theme=dark&chart=bars" 
+    width="430"
     alt="GitHub stats"
-    width="420"
   />
 </p>
 
 <p align="center">
   <img 
-    src="https://git-hub-stats-card-generator.vercel.app/api/svg?username=Sanjay1712KSK&type=contributions&theme=default" 
+    src="https://git-hub-stats-card-generator.vercel.app/api/svg?username=Sanjay1712KSK&type=contributions&theme=dark" 
+    width="430"
     alt="Contribution stats"
-    width="420"
   />
 </p>
 
 <p align="center">
   <img 
-    src="https://git-hub-stats-card-generator.vercel.app/api/svg?username=Sanjay1712KSK&type=top-repos&theme=default" 
+    src="https://git-hub-stats-card-generator.vercel.app/api/svg?username=Sanjay1712KSK&type=top-repos&theme=dark" 
+    width="430"
     alt="Top repositories"
-    width="420"
+  />
+</p>
+
+<hr />
+
+<!-- ================= PROFILE METRICS ================= -->
+<h2>📈 Profile Metrics</h2>
+
+<p align="center">
+  <img 
+    src="https://komarev.com/ghpvc/?username=Sanjay1712KSK&label=Profile%20Views&color=0e75b6&style=for-the-badge"
+    alt="Profile views"
+  />
+</p>
+
+<p align="center">
+  <img 
+    src="https://img.shields.io/github/followers/Sanjay1712KSK?label=Followers&style=for-the-badge&color=1f6feb"
+    alt="GitHub followers"
+  />
+  &nbsp;
+  <img 
+    src="https://img.shields.io/github/stars/Sanjay1712KSK?label=Total%20Stars&style=for-the-badge&color=1f6feb"
+    alt="GitHub stars"
   />
 </p>
 
