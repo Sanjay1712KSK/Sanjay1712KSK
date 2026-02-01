@@ -41,7 +41,7 @@ Public demos, documentation, or selective releases will be shared once the syste
 
 <p>
   <img 
-    src="https://skillicons.dev/icons?i=python,cpp,js,pytorch,react,nodejs,git,linux&theme=dark" 
+    src="https://skillicons.dev/icons?i=python,cpp,js,pytorch,react,nodejs,flutter,git,linux,unreal&theme=dark" 
     alt="Tech stack icons"
   />
 </p>
