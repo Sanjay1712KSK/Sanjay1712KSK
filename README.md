@@ -1,4 +1,3 @@
-<!-- ================= HEADER ================= -->
 <h1 align="center">Hi 👋 I'm Sanjay Kumar S</h1>
 
 <p align="center">
@@ -14,33 +13,31 @@
   <em>AI • Reinforcement Learning • Simulation</em>
 </p>
 
-<!-- ================= ABOUT ================= -->
 <h2>About Me</h2>
 
 <p>
-I design and build <strong>simulation-driven intelligent systems</strong>, with a strong focus on
-<strong>reinforcement learning</strong> and control under uncertainty.
-My work emphasizes <strong>robustness</strong>, <strong>scalability</strong>, and
-<strong>experiment-driven development</strong>.
+I design and build <strong>simulation-driven intelligent systems</strong> with a strong focus on
+<strong>machine learning</strong>, <strong>reinforcement learning</strong>, and
+<strong>control under uncertainty</strong>.
+My interests lie in developing <strong>robust</strong>,
+<strong>scalable</strong>, and <strong>experiment-driven</strong> software systems.
 </p>
 
 <p>
-Currently exploring <strong>AI control systems</strong>, 
+Currently exploring <strong>AI control systems</strong>,
 <strong>Unreal Engine–based simulations</strong>, and
 <strong>learning-based autonomy</strong>.
 </p>
 
-<!-- ================= DISCLAIMER ================= -->
 <h2>⚠️ Disclaimer</h2>
 
 <p>
-Some core projects are maintained in <strong>private repositories</strong> during active development
+Some of my core projects are maintained in <strong>private repositories</strong> during active development
 and experimentation.
 Public demos, documentation, or selective releases will be shared once the systems reach a stable stage.
 </p>
 
-<!-- ================= TECH STACK ================= -->
-<h2>My Tech Stack</h2>
+<h2>🛠 Tech Stack</h2>
 
 <p>
   <img 
@@ -48,43 +45,41 @@ Public demos, documentation, or selective releases will be shared once the syste
     alt="Tech stack icons"
   />
 </p>
-<!-- ================= PROJECTS ================= -->
+
 <h2>🚀 Selected Projects</h2>
 
 <p>
-Highlighted projects demonstrating practical experience in
+Industry-relevant projects demonstrating experience in
 <strong>machine learning</strong>, <strong>computer vision</strong>,
-and <strong>software engineering</strong>, with relevance to
-<strong>internship</strong> and <strong>industry roles</strong>.
+and <strong>software engineering</strong>, with an emphasis on
+<strong>practical implementation</strong> and <strong>real-world problem solving</strong>.
 </p>
 
 <table>
   <tr>
     <td valign="top" width="50%">
       <h3>🧠 Drug MRP Price Prediction</h3>
+      <p><strong>Tags:</strong> Machine Learning • Data Analysis</p>
       <p>
-        <strong>Tags:</strong> Machine Learning • Data Analysis<br />
         Built a predictive model to estimate drug MRP values using historical pricing data.
-        Emphasized data preprocessing, feature selection, and model evaluation.
+        Focused on data preprocessing, feature engineering, and model evaluation.
       </p>
       <p>
         🔗 <a href="https://github.com/Sanjay1712KSK/Drug-MRP-Price-Prediction" target="_blank">
-          View Repository
-        </a>
+        View Repository</a>
       </p>
     </td>
 
     <td valign="top" width="50%">
       <h3>👁️ Padayappa Paarvai</h3>
+      <p><strong>Tags:</strong> Computer Vision • Image Processing</p>
       <p>
-        <strong>Tags:</strong> Computer Vision • Image Processing<br />
-        Explores visual perception through image-based analysis techniques,
+        Explores visual perception through image-based analysis,
         focusing on extracting meaningful insights from visual data.
       </p>
       <p>
         🔗 <a href="https://github.com/Sanjay1712KSK/Padayappa-Paarvai" target="_blank">
-          View Repository
-        </a>
+        View Repository</a>
       </p>
     </td>
   </tr>
@@ -92,29 +87,27 @@ and <strong>software engineering</strong>, with relevance to
   <tr>
     <td valign="top" width="50%">
       <h3>🤖 Rule-Based Chatbot with UI</h3>
+      <p><strong>Tags:</strong> NLP • Software Engineering</p>
       <p>
-        <strong>Tags:</strong> NLP • Software Engineering<br />
-        Designed a deterministic chatbot system with a user interface,
-        focusing on structured dialog flow and predictable response handling.
+        Designed a rule-based conversational chatbot with a user interface,
+        emphasizing deterministic logic and structured dialog flow.
       </p>
       <p>
         🔗 <a href="https://github.com/Sanjay1712KSK/Rule-Based-Chatbot-with-UI" target="_blank">
-          View Repository
-        </a>
+        View Repository</a>
       </p>
     </td>
 
     <td valign="top" width="50%">
       <h3>🌾 Agro Visionaries</h3>
+      <p><strong>Tags:</strong> Applied Tech • Team Project</p>
       <p>
-        <strong>Tags:</strong> Applied Tech • Team Project<br />
-        A collaborative solution aimed at addressing real-world agricultural challenges
+        A collaborative solution addressing real-world agricultural challenges
         through technology-driven decision support.
       </p>
       <p>
         🔗 <a href="https://github.com/KBSanchai/Agro-Visionaries-by-Asteri-PVT" target="_blank">
-          View Repository
-        </a>
+        View Repository</a>
       </p>
     </td>
   </tr>
@@ -122,29 +115,27 @@ and <strong>software engineering</strong>, with relevance to
   <tr>
     <td valign="top" width="50%">
       <h3>🐄 Cattle-Go</h3>
+      <p><strong>Tags:</strong> Application Development • Domain Solution</p>
       <p>
-        <strong>Tags:</strong> Application Development • Domain Solution<br />
-        Developed a domain-specific application for cattle management,
-        focusing on usability and practical workflow modeling.
+        A domain-focused application for cattle management,
+        designed around practical workflows and usability.
       </p>
       <p>
         🔗 <a href="https://github.com/Sanjay1712KSK/Cattle-Go" target="_blank">
-          View Repository
-        </a>
+        View Repository</a>
       </p>
     </td>
 
     <td valign="top" width="50%">
       <h3>🎮 Tic-Tac-Toe</h3>
+      <p><strong>Tags:</strong> Programming Fundamentals</p>
       <p>
-        <strong>Tags:</strong> Programming Fundamentals • Logic Design<br />
-        A clean implementation of the classic game, demonstrating core programming logic,
-        state handling, and user interaction.
+        A clean implementation of the classic game demonstrating
+        core logic, state management, and user interaction.
       </p>
       <p>
         🔗 <a href="https://github.com/Sanjay1712KSK/Tic-Tac-Toe" target="_blank">
-          View Repository
-        </a>
+        View Repository</a>
       </p>
     </td>
   </tr>
@@ -152,39 +143,59 @@ and <strong>software engineering</strong>, with relevance to
 
 <p>
 <em>
-More advanced projects involving simulation-based learning, control systems,
-and reinforcement learning are currently under active development in private repositories.
+Advanced projects involving simulation-based control and reinforcement learning
+are currently under active development in private repositories.
 </em>
 </p>
 
-<!-- ================= GITHUB ACTIVITY ================= -->
-<h2> My GitHub Activity</h2>
+<h2>📊 GitHub Activity</h2>
 
 <p align="center">
   <img 
-    src="https://git-hub-stats-card-generator.vercel.app/api/svg?username=Sanjay1712KSK&theme=dark&chart=bars" 
+    src="https://git-hub-stats-card-generator.vercel.app/api/svg?username=Sanjay1712KSK&theme=dark&chart=bars"
     width="410"
-    alt="GitHub statistics"
+    alt="GitHub stats"
   />
 </p>
 
 <p align="center">
   <img 
-    src="https://git-hub-stats-card-generator.vercel.app/api/svg?username=Sanjay1712KSK&type=contributions&theme=dark" 
+    src="https://git-hub-stats-card-generator.vercel.app/api/svg?username=Sanjay1712KSK&type=contributions&theme=dark"
     width="410"
-    alt="Contribution activity"
+    alt="Contribution stats"
   />
 </p>
 
 <p align="center">
   <img 
-    src="https://git-hub-stats-card-generator.vercel.app/api/svg?username=Sanjay1712KSK&type=top-repos&theme=dark" 
+    src="https://git-hub-stats-card-generator.vercel.app/api/svg?username=Sanjay1712KSK&type=top-repos&theme=dark"
     width="410"
     alt="Top repositories"
   />
 </p>
-<!-- ================= SOCIAL LINKS ================= -->
-<h2>Get In Touch</h2>
+
+<h2>📈 Profile Metrics</h2>
+
+<p align="center">
+  <img 
+    src="https://komarev.com/ghpvc/?username=Sanjay1712KSK&label=Profile%20Views&style=for-the-badge&color=1f6feb"
+    alt="Profile views"
+  />
+</p>
+
+<p align="center">
+  <img 
+    src="https://img.shields.io/github/followers/Sanjay1712KSK?label=Followers&style=for-the-badge&color=1f6feb"
+    alt="Followers"
+  />
+  &nbsp;
+  <img 
+    src="https://img.shields.io/github/stars/Sanjay1712KSK?label=Total%20Stars&style=for-the-badge&color=1f6feb"
+    alt="Stars"
+  />
+</p>
+
+<h2>🔗 Professional Links</h2>
 
 <p align="center">
   <a href="https://www.linkedin.com/" target="_blank">
@@ -202,26 +213,6 @@ and reinforcement learning are currently under active development in private rep
   </a>
 </p>
 
-<!-- ================= FOOTER ================= -->
 <p align="center">
   <em>Building systems that learn, not just run.</em>
-</p>
-
-<p align="center">
-  <img 
-    src="https://komarev.com/ghpvc/?username=Sanjay1712KSK&label=Profile%20Views&color=1f6feb&style=for-the-badge"
-    alt="Profile views"
-  />
-</p>
-
-<p align="center">
-  <img 
-    src="https://img.shields.io/github/followers/Sanjay1712KSK?label=Followers&style=for-the-badge&color=1f6feb"
-    alt="GitHub followers"
-  />
-  &nbsp;
-  <img 
-    src="https://img.shields.io/github/stars/Sanjay1712KSK?label=Total%20Stars&style=for-the-badge&color=1f6feb"
-    alt="GitHub stars"
-  />
 </p>
