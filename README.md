@@ -46,7 +46,7 @@ Public demos, documentation, or selective releases will be shared once the syste
   />
 </p>
 
-<h2> Selected Projects</h2>
+<h2>🚀 Selected Projects</h2>
 
 <p>
 Industry-relevant projects demonstrating experience in
@@ -55,38 +55,50 @@ and <strong>software engineering</strong>, with an emphasis on
 <strong>practical implementation</strong> and <strong>real-world problem solving</strong>.
 </p>
 
-<h3> Drug MRP Price Prediction</h3>
-<p><strong>Tags:</strong> Machine Learning • Data Analysis</p>
+<h3>🐄 Cattle-Go</h3>
+<p><strong>Tags:</strong> Computer Vision • Deep Learning • Full-Stack AI • AgriTech</p>
 <p>
-Predictive machine learning model for pharmaceutical MRP, demonstrating data processing, training, and performance evaluation
+AI-powered livestock management system that identifies Indian cattle breeds using image recognition,
+with real-time detection, multilingual support, and a RAG-based advisory chatbot.
 </p>
 <p>
-🔗 <a href="https://github.com/Sanjay1712KSK/Drug-MRP-Price-Prediction" target="_blank">
-View Repository</a>
+🔗 <a href="https://github.com/Sanjay1712KSK/Cattle-Go" target="_blank">View Repository</a>
+</p>
+
+<br />
+
+<h3>🧠 Drug MRP Price Prediction</h3>
+<p><strong>Tags:</strong> Machine Learning • Data Analysis</p>
+<p>
+Predictive machine learning model for pharmaceutical MRP,
+demonstrating data processing, training, and performance evaluation.
+</p>
+<p>
+🔗 <a href="https://github.com/Sanjay1712KSK/Drug-MRP-Price-Prediction" target="_blank">View Repository</a>
 </p>
 
 <br />
 
 <h3>👁️ Padayappa Paarvai</h3>
-<p><strong>Tags:</strong> Computer Vision • Image Processing</p>
+<p><strong>Tags:</strong> Software Tooling • Interactive UI • Client-Side Application</p>
 <p>
-A web-based repository structure visualizer that converts JSON folder trees into an interactive, searchable hierarchy with advanced filtering controls.
+A web-based repository structure visualizer that converts JSON folder trees
+into an interactive, searchable hierarchy with advanced filtering controls.
 </p>
 <p>
-🔗 <a href="https://github.com/Sanjay1712KSK/Padayappa-Paarvai" target="_blank">
-View Repository</a>
+🔗 <a href="https://github.com/Sanjay1712KSK/Padayappa-Paarvai" target="_blank">View Repository</a>
 </p>
 
 <br />
 
 <h3>🤖 Rule-Based Chatbot with UI</h3>
-<p><strong>Tags:</strong> NLP • Software Engineering</p>
+<p><strong>Tags:</strong> Rule-Based System • Conversational UI • Frontend Engineering</p>
 <p>
-Rule-based chatbot application built with React 18, TypeScript, and Vite, offering a modern UI, theming, animations, and persistent conversations.
+Rule-based chatbot application built with React 18, TypeScript, and Vite,
+offering a modern UI, theming, animations, and persistent conversations.
 </p>
 <p>
-🔗 <a href="https://github.com/Sanjay1712KSK/Rule-Based-Chatbot-with-UI" target="_blank">
-View Repository</a>
+🔗 <a href="https://github.com/Sanjay1712KSK/Rule-Based-Chatbot-with-UI" target="_blank">View Repository</a>
 </p>
 
 <br />
@@ -98,20 +110,7 @@ A collaborative solution addressing real-world agricultural challenges
 through technology-driven decision support.
 </p>
 <p>
-🔗 <a href="https://github.com/KBSanchai/Agro-Visionaries-by-Asteri-PVT" target="_blank">
-View Repository</a>
-</p>
-
-<br />
-
-<h3>🐄 Cattle-Go</h3>
-<p><strong>Tags:</strong> Application Development • Domain Solution</p>
-<p>
-AI-powered livestock management system that identifies Indian cattle breeds using image recognition, with real-time detection, multilingual support, and a RAG-based advisory chatbot.
-</p>
-<p>
-🔗 <a href="https://github.com/Sanjay1712KSK/Cattle-Go" target="_blank">
-View Repository</a>
+🔗 <a href="https://github.com/KBSanchai/Agro-Visionaries-by-Asteri-PVT" target="_blank">View Repository</a>
 </p>
 
 <br />
@@ -123,8 +122,7 @@ A clean implementation of the classic game demonstrating
 core logic, state management, and user interaction.
 </p>
 <p>
-🔗 <a href="https://github.com/Sanjay1712KSK/Tic-Tac-Toe" target="_blank">
-View Repository</a>
+🔗 <a href="https://github.com/Sanjay1712KSK/Tic-Tac-Toe" target="_blank">View Repository</a>
 </p>
 
 <p>
