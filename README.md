@@ -1,27 +1,83 @@
-## Hi 👋 I'm Sanjay Kumar S
-<p align="center">
-  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="350"/>
-</p>
-3rd Year Computer Science Student | AI • Reinforcement Learning • Simulation
+<!-- ================= HEADER ================= -->
+<h1 align="center">Hi 👋 I'm Sanjay Kumar S</h1>
 
-## About Me
+<p align="center">
+  <img 
+    src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" 
+    width="350" 
+    alt="Coding animation"
+  />
+</p>
+
+<p align="center">
+  <strong>3rd Year Computer Science Student</strong><br />
+  <em>AI • Reinforcement Learning • Simulation</em>
+</p>
+
+<hr />
+
+<!-- ================= ABOUT ME ================= -->
+<h2>About Me</h2>
+
+<p>
 I build simulation-driven systems and experiment with reinforcement learning,
 computer vision, and scalable software design.
-Currently exploring AI control systems and Unreal Engine–based simulations.
+<br /><br />
+Currently exploring <strong>AI control systems</strong> and 
+<strong>Unreal Engine–based simulations</strong>.
+</p>
 
-## ⚠️ Disclaimer
+<hr />
 
+<!-- ================= DISCLAIMER ================= -->
+<h2>⚠️ Disclaimer</h2>
+
+<p>
 Some of my core repositories are currently private as they are under active development.
 Public demos, documentation, or partial releases will be shared once the projects reach a stable stage.
+</p>
 
+<hr />
 
-##  Tech Stack
-![My Skills](https://skillicons.dev/icons?i=python,cpp,js,pytorch,react,nodejs,git,linux)
+<!-- ================= TECH STACK ================= -->
+<h2>🛠 Tech Stack</h2>
 
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,cpp,js,pytorch,react,nodejs,git,linux" alt="Tech stack icons" />
+</p>
 
----
+<hr />
 
-![Sanjay1712KSK's GitHub stats](https://git-hub-stats-card-generator.vercel.app/api/svg?username=Sanjay1712KSK&theme=default&chart=bars)
-![Sanjay1712KSK's Contribution stats](https://git-hub-stats-card-generator.vercel.app/api/svg?username=Sanjay1712KSK&type=contributions&theme=default)
-![Sanjay1712KSK's Top Repos](https://git-hub-stats-card-generator.vercel.app/api/svg?username=Sanjay1712KSK&type=top-repos&theme=default)
+<!-- ================= GITHUB STATS ================= -->
+<h2>📊 GitHub Activity</h2>
 
+<p align="center">
+  <img 
+    src="https://git-hub-stats-card-generator.vercel.app/api/svg?username=Sanjay1712KSK&theme=default&chart=bars" 
+    alt="GitHub stats"
+    width="420"
+  />
+</p>
+
+<p align="center">
+  <img 
+    src="https://git-hub-stats-card-generator.vercel.app/api/svg?username=Sanjay1712KSK&type=contributions&theme=default" 
+    alt="Contribution stats"
+    width="420"
+  />
+</p>
+
+<p align="center">
+  <img 
+    src="https://git-hub-stats-card-generator.vercel.app/api/svg?username=Sanjay1712KSK&type=top-repos&theme=default" 
+    alt="Top repositories"
+    width="420"
+  />
+</p>
+
+<hr />
+
+<!-- ================= FOOTER ================= -->
+<p align="center">
+  <em>Building systems that learn, not just run.</em>
+</p>
