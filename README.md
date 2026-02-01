@@ -37,7 +37,7 @@ and experimentation.
 Public demos, documentation, or selective releases will be shared once the systems reach a stable stage.
 </p>
 
-<h2>🛠 Tech Stack</h2>
+<h2>My Tech Stack</h2>
 
 <p>
   <img 
@@ -46,7 +46,7 @@ Public demos, documentation, or selective releases will be shared once the syste
   />
 </p>
 
-<h2>🚀 Selected Projects</h2>
+<h2>My Selected Projects</h2>
 
 <p>
 Industry-relevant projects demonstrating experience in
@@ -55,7 +55,7 @@ and <strong>software engineering</strong>, with an emphasis on
 <strong>practical implementation</strong> and <strong>real-world problem solving</strong>.
 </p>
 
-<h3>🐄 Cattle-Go</h3>
+<h3>Cattle-Go</h3>
 <p><strong>Tags:</strong> Computer Vision • Deep Learning • Full-Stack AI • AgriTech</p>
 <p>
 AI-powered livestock management system that identifies Indian cattle breeds using image recognition,
@@ -67,7 +67,7 @@ with real-time detection, multilingual support, and a RAG-based advisory chatbot
 
 <br />
 
-<h3>🧠 Drug MRP Price Prediction</h3>
+<h3>Drug MRP Price Prediction</h3>
 <p><strong>Tags:</strong> Machine Learning • Data Analysis</p>
 <p>
 Predictive machine learning model for pharmaceutical MRP,
@@ -79,7 +79,7 @@ demonstrating data processing, training, and performance evaluation.
 
 <br />
 
-<h3>👁️ Padayappa Paarvai</h3>
+<h3>Padayappa Paarvai</h3>
 <p><strong>Tags:</strong> Software Tooling • Interactive UI • Client-Side Application</p>
 <p>
 A web-based repository structure visualizer that converts JSON folder trees
@@ -91,7 +91,7 @@ into an interactive, searchable hierarchy with advanced filtering controls.
 
 <br />
 
-<h3>🤖 Rule-Based Chatbot with UI</h3>
+<h3>Rule-Based Chatbot with UI</h3>
 <p><strong>Tags:</strong> Rule-Based System • Conversational UI • Frontend Engineering</p>
 <p>
 Rule-based chatbot application built with React 18, TypeScript, and Vite,
@@ -103,7 +103,7 @@ offering a modern UI, theming, animations, and persistent conversations.
 
 <br />
 
-<h3>🌾 Agro Visionaries</h3>
+<h3>Agro Visionaries</h3>
 <p><strong>Tags:</strong> Applied Tech • Team Project</p>
 <p>
 A collaborative solution addressing real-world agricultural challenges
@@ -115,7 +115,7 @@ through technology-driven decision support.
 
 <br />
 
-<h3>🎮 Tic-Tac-Toe</h3>
+<h3>Tic-Tac-Toe</h3>
 <p><strong>Tags:</strong> Programming Fundamentals</p>
 <p>
 A clean implementation of the classic game demonstrating
@@ -133,7 +133,7 @@ are currently under active development in private repositories.
 </p>
 
 
-<h2>📊 GitHub Activity</h2>
+<h2>My GitHub Activity</h2>
 
 <p align="center">
   <img 
@@ -159,8 +159,6 @@ are currently under active development in private repositories.
   />
 </p>
 
-<h2>📈 Profile Metrics</h2>
-
 <p align="center">
   <img 
     src="https://komarev.com/ghpvc/?username=Sanjay1712KSK&label=Profile%20Views&style=for-the-badge&color=1f6feb"
@@ -180,7 +178,7 @@ are currently under active development in private repositories.
   />
 </p>
 
-<h2>🔗 Professional Links</h2>
+<h2>Professional Links</h2>
 
 <p align="center">
   <a href="https://www.linkedin.com/" target="_blank">
