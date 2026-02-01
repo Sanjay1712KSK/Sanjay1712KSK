@@ -40,7 +40,7 @@ Public demos, documentation, or selective releases will be shared once the syste
 </p>
 
 <!-- ================= TECH STACK ================= -->
-<h2>🛠 Tech Stack</h2>
+<h2>My Tech Stack</h2>
 
 <p>
   <img 
@@ -50,7 +50,7 @@ Public demos, documentation, or selective releases will be shared once the syste
 </p>
 
 <!-- ================= GITHUB ACTIVITY ================= -->
-<h2>📊 GitHub Activity</h2>
+<h2> My GitHub Activity</h2>
 
 <p align="center">
   <img 
@@ -77,8 +77,6 @@ Public demos, documentation, or selective releases will be shared once the syste
 </p>
 
 <!-- ================= PROFILE METRICS ================= -->
-<h2>📈 Profile Metrics</h2>
-
 <p align="center">
   <img 
     src="https://komarev.com/ghpvc/?username=Sanjay1712KSK&label=Profile%20Views&color=1f6feb&style=for-the-badge"
@@ -99,7 +97,7 @@ Public demos, documentation, or selective releases will be shared once the syste
 </p>
 
 <!-- ================= SOCIAL LINKS ================= -->
-<h2>🔗 Connect</h2>
+<h2>Connect with me</h2>
 
 <p align="center">
   <a href="https://www.linkedin.com/" target="_blank">
