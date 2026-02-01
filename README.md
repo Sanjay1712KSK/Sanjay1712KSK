@@ -1,10 +1,10 @@
 <!-- ================= HEADER ================= -->
-<h1 align="center">Hi 😊 I'm Sanjay Kumar S</h1>
+<h1 align="center">Hi 👋 I'm Sanjay Kumar S</h1>
 
 <p align="center">
   <img 
     src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" 
-    width="360"
+    width="320"
     alt="Coding animation"
   />
 </p>
@@ -14,76 +14,74 @@
   <em>AI • Reinforcement Learning • Simulation</em>
 </p>
 
-<hr />
-
-<!-- ================= ABOUT ME ================= -->
+<!-- ================= ABOUT ================= -->
 <h2>About Me</h2>
 
 <p>
-I build <strong>simulation-driven systems</strong> and experiment with 
-<strong>reinforcement learning</strong>, computer vision, and scalable software design.
-<br /><br />
-Currently focused on <strong>AI control systems</strong> and 
-<strong>Unreal Engine–based simulations</strong>.
+I design and build <strong>simulation-driven intelligent systems</strong>, with a strong focus on
+<strong>reinforcement learning</strong> and control under uncertainty.
+My work emphasizes <strong>robustness</strong>, <strong>scalability</strong>, and
+<strong>experiment-driven development</strong>.
 </p>
 
-<hr />
+<p>
+Currently exploring <strong>AI control systems</strong>, 
+<strong>Unreal Engine–based simulations</strong>, and
+<strong>learning-based autonomy</strong>.
+</p>
 
 <!-- ================= DISCLAIMER ================= -->
 <h2>⚠️ Disclaimer</h2>
 
 <p>
-Some of my core repositories are currently private as they are under active development.
-Public demos, documentation, or partial releases will be shared once the projects reach a stable stage.
+Some core projects are maintained in <strong>private repositories</strong> during active development
+and experimentation.
+Public demos, documentation, or selective releases will be shared once the systems reach a stable stage.
 </p>
 
-<hr />
-
 <!-- ================= TECH STACK ================= -->
-<h2>My Tech Stack</h2>
+<h2>🛠 Tech Stack</h2>
 
-<p align="left">
+<p>
   <img 
     src="https://skillicons.dev/icons?i=python,cpp,js,pytorch,react,nodejs,git,linux&theme=dark" 
     alt="Tech stack icons"
   />
 </p>
 
-<hr />
-
-<!-- ================= GITHUB STATS ================= -->
-<h2> My GitHub Activity</h2>
+<!-- ================= GITHUB ACTIVITY ================= -->
+<h2>📊 GitHub Activity</h2>
 
 <p align="center">
   <img 
     src="https://git-hub-stats-card-generator.vercel.app/api/svg?username=Sanjay1712KSK&theme=dark&chart=bars" 
-    width="430"
-    alt="GitHub stats"
+    width="410"
+    alt="GitHub statistics"
   />
 </p>
 
 <p align="center">
   <img 
     src="https://git-hub-stats-card-generator.vercel.app/api/svg?username=Sanjay1712KSK&type=contributions&theme=dark" 
-    width="430"
-    alt="Contribution stats"
+    width="410"
+    alt="Contribution activity"
   />
 </p>
 
 <p align="center">
   <img 
     src="https://git-hub-stats-card-generator.vercel.app/api/svg?username=Sanjay1712KSK&type=top-repos&theme=dark" 
-    width="430"
+    width="410"
     alt="Top repositories"
   />
 </p>
 
-<hr />
-
 <!-- ================= PROFILE METRICS ================= -->
+<h2>📈 Profile Metrics</h2>
+
 <p align="center">
   <img 
-    src="https://komarev.com/ghpvc/?username=Sanjay1712KSK&label=Profile%20Views&color=0e75b6&style=for-the-badge"
+    src="https://komarev.com/ghpvc/?username=Sanjay1712KSK&label=Profile%20Views&color=1f6feb&style=for-the-badge"
     alt="Profile views"
   />
 </p>
@@ -100,7 +98,24 @@ Public demos, documentation, or partial releases will be shared once the project
   />
 </p>
 
-<hr />
+<!-- ================= SOCIAL LINKS ================= -->
+<h2>🔗 Connect</h2>
+
+<p align="center">
+  <a href="https://www.linkedin.com/" target="_blank">
+    <img 
+      src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
+      alt="LinkedIn"
+    />
+  </a>
+  &nbsp;
+  <a href="https://github.com/Sanjay1712KSK" target="_blank">
+    <img 
+      src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"
+      alt="GitHub"
+    />
+  </a>
+</p>
 
 <!-- ================= FOOTER ================= -->
 <p align="center">
