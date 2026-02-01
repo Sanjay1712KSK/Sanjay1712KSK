@@ -55,7 +55,7 @@ and <strong>software engineering</strong>, with an emphasis on
 <strong>practical implementation</strong> and <strong>real-world problem solving</strong>.
 </p>
 
-<table>
+<table width="100%">
   <tr>
     <td valign="top" width="50%">
       <h3>🧠 Drug MRP Price Prediction</h3>
@@ -138,6 +138,7 @@ and <strong>software engineering</strong>, with an emphasis on
         View Repository</a>
       </p>
     </td>
+    
   </tr>
 </table>
 
