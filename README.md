@@ -137,7 +137,7 @@ are currently under active development in private repositories.
 
 <p align="center">
   <img 
-    src="https://git-hub-stats-card-generator.vercel.app/api/svg?username=Sanjay1712KSK&theme=dark&chart=bars"
+    src="https://git-hub-stats-card-generator.vercel.app/api/svg?username=Sanjay1712KSK&theme=github&chart=bars"
     width="410"
     alt="GitHub stats"
   />
@@ -151,7 +151,7 @@ are currently under active development in private repositories.
 </p>
 <p align="center">
   <img 
-    src="https://git-hub-stats-card-generator.vercel.app/api/svg?username=Sanjay1712KSK&type=contributions&theme=dark"
+    src="https://git-hub-stats-card-generator.vercel.app/api/svg?username=Sanjay1712KSK&type=contributions&theme=github"
     width="410"
     alt="Contribution stats"
   />
@@ -159,7 +159,7 @@ are currently under active development in private repositories.
 
 <p align="center">
   <img 
-    src="https://git-hub-stats-card-generator.vercel.app/api/svg?username=Sanjay1712KSK&type=top-repos&theme=dark"
+    src="https://git-hub-stats-card-generator.vercel.app/api/svg?username=Sanjay1712KSK&type=top-repos&theme=github"
     width="410"
     alt="Top repositories"
   />
