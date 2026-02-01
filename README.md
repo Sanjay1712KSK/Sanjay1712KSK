@@ -142,7 +142,13 @@ are currently under active development in private repositories.
     alt="GitHub stats"
   />
 </p>
-![Sanjay1712KSK's Language stats](https://git-hub-stats-card-generator.vercel.app/api/svg?username=Sanjay1712KSK&type=languages&theme=github&chart=pie)
+<p align="center">
+  <img 
+    src="https://git-hub-stats-card-generator.vercel.app/api/svg?username=Sanjay1712KSK&type=languages&theme=github&chart=pie"
+    width="410"
+    alt="Contribution stats"
+  />
+</p>
 <p align="center">
   <img 
     src="https://git-hub-stats-card-generator.vercel.app/api/svg?username=Sanjay1712KSK&type=contributions&theme=dark"
