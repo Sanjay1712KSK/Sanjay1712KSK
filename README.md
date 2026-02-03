@@ -103,11 +103,10 @@ offering a modern UI, theming, animations, and persistent conversations.
 
 <br />
 
-<h3>Agro Visionaries</h3>
-<p><strong>Tags:</strong> Applied Tech • Team Project</p>
+<h3>Agro-Visionaries — Agricultural Monitoring Dashboard & AI Assistant (UI Showcase)</h3>
+<p><strong>Tags:</strong> UI Engineering • Web Application • Conversational AI • AgriTech </p>
 <p>
-A collaborative solution addressing real-world agricultural challenges
-through technology-driven decision support.
+An interactive AgriTech dashboard showcasing agricultural monitoring workflows, featuring a responsive UI and a conversational AI assistant.
 </p>
 <p>
 🔗 <a href="https://github.com/KBSanchai/Agro-Visionaries-by-Asteri-PVT" target="_blank">View Repository</a>
