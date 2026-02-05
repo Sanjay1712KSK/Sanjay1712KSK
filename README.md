@@ -167,8 +167,7 @@ are currently under active development in private repositories.
 <p align="center">
   <a href="https://git.io/streak-stats">
     <img 
-      src="https://streak-stats.demolab.com/?user=Sanjay1712KSK"
-      width="410"
+      src="https://streak-stats.demolab.com?user=Sanjay1712KSK&theme=highcontrast&hide_total_contributions=true&hide_current_streak=true&hide_longest_streak=true"
       alt="GitHub Streak"
     />
   </a>
