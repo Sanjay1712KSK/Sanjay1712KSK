@@ -166,6 +166,13 @@ are currently under active development in private repositories.
 
 <p align="center">
   <img 
+    src="https://streak-stats.demolab.com/?user=Sanjay1712KSK"
+    width="410"
+    alt="Github Streaks"
+  />
+</p>
+<p align="center">
+  <img 
     src="https://komarev.com/ghpvc/?username=Sanjay1712KSK&label=Profile%20Views&style=for-the-badge&color=1f6feb"
     alt="Profile views"
   />
