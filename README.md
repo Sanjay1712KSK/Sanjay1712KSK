@@ -164,8 +164,6 @@ are currently under active development in private repositories.
   />
 </p>
 
-<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=Sanjay1712KSK&theme=highcontrast" alt="GitHub Streak" /></a>
-
 
 <p align="center">
   <img 
