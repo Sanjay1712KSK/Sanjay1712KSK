@@ -165,12 +165,16 @@ are currently under active development in private repositories.
 </p>
 
 <p align="center">
-  <img 
-    src="https://streak-stats.demolab.com/?user=Sanjay1712KSK"
-    width="410"
-    alt="Github Streaks"
-  />
+  <a href="https://git.io/streak-stats">
+    <img 
+      src="https://streak-stats.demolab.com/?user=Sanjay1712KSK"
+      width="410"
+      alt="GitHub Streak"
+    />
+  </a>
 </p>
+
+
 <p align="center">
   <img 
     src="https://komarev.com/ghpvc/?username=Sanjay1712KSK&label=Profile%20Views&style=for-the-badge&color=1f6feb"
