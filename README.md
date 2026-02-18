@@ -134,13 +134,7 @@ are currently under active development in private repositories.
 
 <h2>My GitHub Activity</h2>
 
-<p align="center">
-  <img 
-    src="https://github-readme-streak-stats.herokuapp.com?user=Sanjay1712KSK&theme=highcontrast&hide_border=true&border_radius=4.7&short_numbers=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats"
-    width="410"
-    alt="GitHub stats"
-  />
-</p>
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=Sanjay1712KSK&theme=highcontrast" alt="GitHub Streak" /></a>
 
 <h2>Professional Links</h2>
 
