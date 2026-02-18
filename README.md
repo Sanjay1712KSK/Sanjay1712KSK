@@ -136,51 +136,9 @@ are currently under active development in private repositories.
 
 <p align="center">
   <img 
-    src="https://git-hub-stats-card-generator.vercel.app/api/svg?username=Sanjay1712KSK&theme=github&chart=bars"
+    src="https://github-readme-streak-stats.herokuapp.com?user=Sanjay1712KSK&theme=highcontrast&hide_border=true&border_radius=4.7&short_numbers=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats"
     width="410"
     alt="GitHub stats"
-  />
-</p>
-<p align="center">
-  <img 
-    src="https://git-hub-stats-card-generator.vercel.app/api/svg?username=Sanjay1712KSK&type=languages&theme=github&chart=pie"
-    width="410"
-    alt="Contribution stats"
-  />
-</p>
-<p align="center">
-  <img 
-    src="https://git-hub-stats-card-generator.vercel.app/api/svg?username=Sanjay1712KSK&type=contributions&theme=github"
-    width="410"
-    alt="Contribution stats"
-  />
-</p>
-
-<p align="center">
-  <img 
-    src="https://git-hub-stats-card-generator.vercel.app/api/svg?username=Sanjay1712KSK&type=top-repos&theme=github"
-    width="410"
-    alt="Top repositories"
-  />
-</p>
-
-
-<p align="center">
-  <img 
-    src="https://komarev.com/ghpvc/?username=Sanjay1712KSK&label=Profile%20Views&style=for-the-badge&color=1f6feb"
-    alt="Profile views"
-  />
-</p>
-
-<p align="center">
-  <img 
-    src="https://img.shields.io/github/followers/Sanjay1712KSK?label=Followers&style=for-the-badge&color=1f6feb"
-    alt="Followers"
-  />
-  &nbsp;
-  <img 
-    src="https://img.shields.io/github/stars/Sanjay1712KSK?label=Total%20Stars&style=for-the-badge&color=1f6feb"
-    alt="Stars"
   />
 </p>
 
