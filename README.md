@@ -138,7 +138,9 @@ are currently under active development in private repositories.
 
 <h2>Professional Links</h2>
 
-My Git City - > [https://www.thegitcity.com/dev/sanjay1712ksk]
+<p>
+🔗 <a href="https://www.thegitcity.com/dev/sanjay1712ksk" target="_blank">VMy Git City</a>
+</p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/sanjaykumarksk/" target="_blank">
