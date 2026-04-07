@@ -139,7 +139,7 @@ are currently under active development in private repositories.
 <h2>Professional Links</h2>
 
 <p>
-🔗 <a href="https://www.thegitcity.com/dev/sanjay1712ksk" target="_blank">VMy Git City</a>
+🔗 <a href="https://www.thegitcity.com/dev/sanjay1712ksk" target="_blank">My Git City</a>
 </p>
 
 <p align="center">
