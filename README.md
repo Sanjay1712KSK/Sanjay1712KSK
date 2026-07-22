@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <strong>3rd Year Computer Science Student</strong><br />
+  <strong>4th Year Computer Science Student</strong><br />
   <em>AI • Reinforcement Learning • Simulation</em>
 </p>
 
