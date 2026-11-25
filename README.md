@@ -1,277 +1,139 @@
  <div align="center">
 
-<a href="https://sanjay1712ksk.github.io/">
-  <img src="https://readme-typing-svg.demolab.com?font=Geist+Mono&weight=500&size=16&duration=2800&pause=1000&color=2F4FD8&center=true&vCenter=true&width=850&height=35&lines=SANJAY+KUMAR+S;AI+%26+SYSTEMS+ENGINEER;FOUNDER%2C+AYAN+CRAFTS" alt="Animated introduction" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:101827,50:172554,100:2563EB&text=SANJAY%20KUMAR&fontSize=48&fontColor=FFFFFF&fontAlignY=38&desc=AI%20%26%20ML%20%7C%20ROBOTICS%20%7C%20SYSTEMS%20ENGINEERING&descSize=13&descAlignY=58&animation=fadeIn" width="100%" alt="Animated profile banner"/>
+
+<a href="https://readme-typing-svg.demolab.com">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=17&duration=2800&pause=900&color=3B82F6&center=true&vCenter=true&width=750&height=45&lines=Building+intelligent+systems.;Exploring+Computer+Vision+%26+Deep+Learning.;Researching+Autonomous+Drone+Systems.;Engineering+software+that+solves+real+problems." alt="Typing introduction"/>
 </a>
 
-# I build software that feels *finished.*
+<p>
+  <a href="https://sanjay1712ksk.github.io/">Portfolio</a> ·
+  <a href="https://www.linkedin.com/in/sanjaykumarksk/">LinkedIn</a> ·
+  <a href="https://medium.com/@sanjayksk1712">Medium</a> ·
+  <a href="https://github.com/Ayan-Crafts">Ayan Crafts</a>
+</p>
 
-**AI & Systems Engineer · Founder, Ayan Crafts**
-
-AI systems · GPU computing · Computer Vision · Linux · Open Source
-
-[Portfolio ↗](https://sanjay1712ksk.github.io/) · [Resume ↗](https://sanjay1712ksk.github.io/resume/) · [GitHub ↗](https://github.com/Sanjay1712KSK) · [LinkedIn ↗](https://www.linkedin.com/in/sanjaykumarksk/)
+<img src="https://komarev.com/ghpvc/?username=Sanjay1712KSK&style=flat-square&color=2563EB&label=PROFILE+VIEWS" alt="Profile views"/>
 
 </div>
 
 ---
 
-<sub>01 / INTRODUCTION</sub>
+## `whoami`
 
-## A little about me.
+```python
+class SanjayKumar:
+    def __init__(self):
+        self.role = "AI & ML Engineer"
+        self.education = "B.Tech CSE (AI & ML) @ SRMIST"
+        self.interests = [
+            "Artificial Intelligence",
+            "Computer Vision",
+            "Robotics & Autonomous Systems",
+            "Reinforcement Learning",
+            "GPU Computing",
+            "Linux & Systems Engineering"
+        ]
+        self.organization = "Ayan Crafts"
 
-I'm **Sanjay Kumar S**, a Computer Science and Engineering undergraduate specializing in Artificial Intelligence and Machine Learning at **SRM Institute of Science and Technology**.
+    def current_focus(self):
+        return [
+            "Learning-based drone navigation",
+            "Computer vision systems",
+            "Local AI infrastructure",
+            "GPU-accelerated applications"
+        ]
 
-Most of my time goes into one idea: taking the power of open-source software and turning it into something that feels like a well-crafted, finished product.
+    def motto(self):
+        return "Build with intent. Engineer with precision."
+```
 
-That idea became **Ayan Crafts**, an independent software studio I founded in July 2026.
+I'm a Computer Science undergraduate specializing in AI and Machine Learning, interested in building intelligent systems that bridge research and practical engineering.
 
-I enjoy working across the entire engineering lifecycle — from research and model development to GPU acceleration, desktop applications, Linux infrastructure and deployment.
+I enjoy working across the stack — from model development and GPU optimization to Linux infrastructure and application deployment.
 
-| | |
-|:---|:---|
-| **Building** | [Ayan Crafts](https://github.com/Ayan-Crafts) |
-| **Studying** | B.Tech CSE (AI & ML), SRMIST |
-| **Academic CGPA** | 9.46 |
-| **Based in** | Chennai, India |
+## `featured_projects`
 
----
+| Project | Description | Stack |
+|:--|:--|:--|
+| [Aero-Controllers](https://github.com/Sanjay1712KSK/Aero-Controllers) | Reinforcement-learning-based quadrotor control and drone simulation research. | Python · PPO · AirSim · UE5 |
+| [AI Video Upscaler](https://github.com/Ayan-Crafts/AI-Video-Upscaler--Powered-by-Nvidia) | NVIDIA-accelerated video enhancement using super-resolution and frame interpolation. | PyTorch · CUDA · RIFE |
+| [Frame Generator](https://github.com/Ayan-Crafts/Frame-Generator) | GPU-accelerated video frame extraction and sports-ball dataset preparation. | Python · NVDEC · OpenCV |
+| [LLLMao](https://github.com/Sanjay1712KSK/LLLMao) | Local AI workstation with workspace-aware retrieval and Ollama integration. | Ollama · RAG · Python |
+| [Cattle-Go](https://github.com/Sanjay1712KSK/Cattle-Go) | Indian cattle breed identification and multilingual agricultural assistance. | MobileNetV2 · Flutter · FastAPI |
+| [Cypher Guard](https://github.com/Sanjay1712KSK/Cypher_Guard) | Security toolkit with AES-GCM encryption and URL safety analysis. | Python · FastAPI |
+| [SONORA](https://github.com/Ayan-Crafts/musiccaddict) | Offline-first desktop music library application. | Tauri · Rust · React |
 
-<sub>02 / WHAT I'M BUILDING</sub>
-
-## Selected work.
-
-Released desktop applications, a Linux system running in a real business environment, and intelligent software products.
-
-### 01 — AI Upscaler Studio
-
-<p align="center">
-  <a href="https://github.com/Ayan-Crafts/AI-Video-Upscaler--Powered-by-Nvidia">
-    <img src="https://raw.githubusercontent.com/Sanjay1712KSK/Sanjay1712KSK.github.io/main/public/media/upscaler-dashboard.png" width="100%" alt="AI Upscaler Studio dashboard"/>
-  </a>
+<p align="right">
+  <a href="https://github.com/Sanjay1712KSK?tab=repositories">Explore all repositories →</a>
 </p>
 
-**Local, NVIDIA-accelerated AI video enhancement.**
+## `research_and_experience`
 
-A desktop application combining Real-ESRGAN super-resolution and RIFE frame interpolation into a unified workflow. Designed to make powerful open-source video enhancement models accessible without requiring users to configure Python, CUDA and FFmpeg themselves.
+- **SRM UROP — Undergraduate Researcher:** Reinforcement learning and autonomous drone simulation using Unreal Engine 5 and Cosys-AirSim.
+- **ISD Lab — Intelligent Systems Design:** Exploring drone control, racing and GPS-denied target acquisition.
+- **CSIR-4PI — SPARK Internship:** Selected for a research internship at CSIR Fourth Paradigm Institute.
+- **MEDBE Pharma & Healthcare — IT & Systems Support:** Linux administration, RBAC workflows and software deployment.
+- **Ayan Crafts — Founder:** Building independent software products and open-source engineering tools.
 
-- PyTorch CUDA FP16 inference
-- Real-ESRGAN and RIFE v4.25
-- NVIDIA NVENC hardware encoding
-- Windows installer, portable ZIP and Ubuntu packages
+## `tech_stack`
 
-<sub>STATUS · V1.0.0 RELEASED</sub>
+<div align="center">
 
-[GitHub Repository ↗](https://github.com/Ayan-Crafts/AI-Video-Upscaler--Powered-by-Nvidia) · [Download Release ↗](https://github.com/Ayan-Crafts/AI-Video-Upscaler--Powered-by-Nvidia/releases/tag/v1.0.0) · [Read the Engineering Story ↗](https://blog.developersglobal.got-a.page/i-wanted-to-upscale-my-old-videos-so-i-built-one-under-ayan-crafts-59e1cb8a089a)
+### Languages
 
----
+<img src="https://skillicons.dev/icons?i=python,c,cpp,java,dart,ts,kotlin,bash&theme=dark" alt="Programming languages"/>
 
-### 02 — Frame Generator
+### AI / ML / Computer Vision
 
-**A GPU-accelerated workstation for computer vision dataset preparation.**
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv&theme=dark" alt="AI technologies"/>
 
-An end-to-end desktop tool for high-throughput video frame extraction and TrackNet-compatible sports-ball annotation workflows.
+### Systems / Infrastructure
 
-- NVIDIA NVDEC hardware-accelerated decoding
-- SAM 2.1-assisted annotation
-- Persistent job queues and resumable extraction
-- CSV-based annotation workflows
+<img src="https://skillicons.dev/icons?i=linux,ubuntu,docker,git,github,cmake&theme=dark" alt="Systems technologies"/>
 
-<sub>STATUS · V2.0.0 RELEASED</sub>
+### Web / Application Development
 
-[GitHub Repository ↗](https://github.com/Ayan-Crafts/Frame-Generator)
+<img src="https://skillicons.dev/icons?i=react,vite,fastapi,flutter,tauri,rust,sqlite&theme=dark" alt="Application technologies"/>
 
----
+</div>
 
-### 03 — DejOS 1.0
+## `github_analytics`
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Sanjay1712KSK/Sanjay1712KSK.github.io/main/public/media/ayan-17-landscape.png" width="100%" alt="Ayan Crafts engineering studio"/>
-</p>
+<div align="center">
 
-**A purpose-built Linux operating environment for retail infrastructure.**
+<a href="https://github.com/Sanjay1712KSK">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Sanjay1712KSK&show_icons=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&rank_icon=github" alt="GitHub statistics"/>
+</a>
+<a href="https://github.com/Sanjay1712KSK">
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sanjay1712KSK&layout=compact&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&langs_count=8" alt="Most used languages"/>
+</a>
 
-A remastered Ubuntu 24 LTS environment designed to restrict retail terminals to their intended web workflow.
+<img width="80%" src="https://github-readme-streak-stats.herokuapp.com/?user=Sanjay1712KSK&theme=github-dark-blue&hide_border=true&background=0D1117" alt="GitHub contribution streak"/>
 
-- Role-based Admin and Worker environments
-- Locked-down kiosk experience
-- USB, Bluetooth and filesystem restrictions
-- Background system maintenance
-- Validated through 50+ manual test cycles
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Sanjay1712KSK&bg_color=0D1117&color=58A6FF&line=2563EB&point=FFFFFF&area=true&hide_border=true" alt="GitHub contribution activity graph"/>
 
-<sub>STATUS · DEPLOYED IN PRODUCTION</sub>
+</div>
 
-[Read the Engineering Story ↗](https://blog.developersglobal.got-a.page/dejos-1-0-a-remastered-linux-system-for-retail-environments-e76fd928df2e)
+## `achievements`
 
----
+- 🥈 **2nd Place** — NLH AI × Legal Hackathon, 2025.
+- 🥉 **3rd Place** — SRM SDG Hackathon, 2024.
+- 🎓 **SAP Certified — Generative AI Developer**, 2026.
 
-### 04 — LLLMao
+## `connect`
 
-**A privacy-first local AI workstation.**
+<div align="center">
 
-A desktop AI environment combining local Ollama inference, workspace-aware retrieval-augmented generation and native system integration.
+<a href="https://sanjay1712ksk.github.io/"><img src="https://img.shields.io/badge/Portfolio-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/sanjaykumarksk/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://medium.com/@sanjayksk1712"><img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white"/></a>
+<a href="https://github.com/Ayan-Crafts"><img src="https://img.shields.io/badge/Ayan_Crafts-2563EB?style=for-the-badge&logo=github&logoColor=white"/></a>
 
-- Local LLM inference through Ollama
-- FastAPI services and ChromaDB retrieval
-- React and TypeScript interface
-- Tauri and Rust desktop architecture
+<br/>
 
-<sub>STATUS · IN ACTIVE DEVELOPMENT</sub>
+*Always curious. Always building.*
 
-[GitHub Repository ↗](https://github.com/Sanjay1712KSK/LLLMao)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,50:172554,100:101827&height=110&section=footer" width="100%" alt="Animated footer"/>
 
----
-
-### 05 — Cattle-Go
-
-<p align="center">
-  <a href="https://github.com/Sanjay1712KSK/Cattle-Go">
-    <img src="https://raw.githubusercontent.com/Sanjay1712KSK/Sanjay1712KSK.github.io/main/public/media/cattle-go.jpg" width="100%" alt="Cattle-Go application"/>
-  </a>
-</p>
-
-**AI-powered Indian cattle breed identification.**
-
-A mobile and web application combining MobileNetV2-based image classification with a multilingual agricultural advisory assistant.
-
-- TensorFlow / Keras
-- MobileNetV2
-- FastAPI inference backend
-- Flutter application
-- Multilingual RAG assistant
-
-<sub>STATUS · COMPLETED & DEPLOYED</sub>
-
-[Live Application ↗](https://sanjay1712ksk.github.io/Cattle-Go/) · [GitHub Repository ↗](https://github.com/Sanjay1712KSK/Cattle-Go)
-
----
-
-<sub>03 / MORE EXPERIMENTS</sub>
-
-## Other things I've built.
-
-| Project | What it does |
-|:---|:---|
-| [GigShield](https://github.com/Sanjay1712KSK/CampTech) | Parametric insurance prototype for gig delivery workers. |
-| [Satellite Change Detection](https://github.com/Sanjay1712KSK/Satellite-Image-Change-Detection-at-Scale) | Siamese ResNet-18, CBAM and large-scale satellite image inference. |
-| [C Compiler Visualizer](https://phases-beta.vercel.app/) | Interactive visualization of six compiler phases. |
-| [Cypher Guard](https://github.com/Sanjay1712KSK/Cypher_Guard) | Security toolkit featuring AES-GCM encryption and URL safety checks. |
-| [Padayappa Paarvai](https://sanjay1712ksk.github.io/Padayappa-Paarvai/) | Interactive repository structure visualizer. |
-| [ParkSRM](https://sanjay1712ksk.github.io/ParkSRM/) | Campus parking and timetable-linked reservation prototype. |
-| [Smart Door Monitoring](https://github.com/Sanjay1712KSK/IoT-SMD) | ESP32-CAM-based monitoring and face-recognition system. |
-
-[Explore all repositories ↗](https://github.com/Sanjay1712KSK?tab=repositories)
-
----
-
-<sub>04 / EXPERIENCE</sub>
-
-## Where I've worked.
-
-### Founder — Ayan Crafts
-`July 2026 – Present`
-
-Building an independent software studio focused on open-source tooling, desktop applications, GPU-accelerated software and system engineering.
-
-### Undergraduate Researcher — SRM UROP
-`November 2025 – Present`
-
-Researching reinforcement-learning control in high-fidelity simulation using Python, PyTorch, Stable-Baselines3 and Unreal Engine 5.
-
-### IT & Systems Support Engineer — MEDBE Pharma and Healthcare
-`June 2025 – August 2026`
-
-Worked on Linux infrastructure, RBAC environments, software deployment, retail workflows and production system maintenance.
-
----
-
-<sub>05 / TECHNICAL FOCUS</sub>
-
-## Tools I work with.
-
-**Programming**
-
-`Python` `C` `C++` `Java` `Dart` `TypeScript` `Kotlin` `Bash`
-
-**AI, Machine Learning & Computer Vision**
-
-`PyTorch` `TensorFlow` `Real-ESRGAN` `RIFE` `OpenCV` `SAM 2.1` `Stable-Baselines3` `RAG` `Ollama`
-
-**GPU, Systems & Linux**
-
-`CUDA` `NVDEC` `NVENC` `FFmpeg` `Ubuntu` `Docker` `Unreal Engine 5` `Linux Administration`
-
-**Applications & Infrastructure**
-
-`PySide6` `React` `Flutter` `FastAPI` `Tauri` `Rust` `SQLite` `GitHub Actions`
-
----
-
-<sub>06 / RECOGNITION</sub>
-
-## A few milestones.
-
-| Recognition | Result | Date |
-|:---|:---|:---|
-| NLH AI × Legal Hackathon | **2nd Place** | August 2025 |
-| SRM SDG Hackathon | **3rd Place** | November 2024 |
-
----
-
-<sub>07 / WRITING</sub>
-
-## Stories from the build.
-
-I write about engineering decisions, open-source development and the process of turning ideas into usable software.
-
-**[I Wanted to Upscale My Old Videos. So I Built One Under Ayan Crafts. ↗](https://blog.developersglobal.got-a.page/i-wanted-to-upscale-my-old-videos-so-i-built-one-under-ayan-crafts-59e1cb8a089a)**
-
-*An idea from 2018, brought to life in 2026.*
-
-**[The Discipline of Software Craftsmanship: Introducing Ayan Crafts ↗](https://blog.developersglobal.got-a.page/the-discipline-of-software-craftsmanship-introducing-ayan-crafts-54b4729e9411)**
-
-*Why we're building an independent engineering studio.*
-
-**[DejOS 1.0: A Remastered Linux System for Retail Environments ↗](https://blog.developersglobal.got-a.page/dejos-1-0-a-remastered-linux-system-for-retail-environments-e76fd928df2e)**
-
-*Building Linux for a real-world retail environment.*
-
-[More writing on Medium ↗](https://medium.com/@sanjayksk1712)
-
----
-
-<sub>08 / LET'S CONNECT</sub>
-
-## Let's build something meaningful together.
-
-I'm interested in intelligent systems, GPU computing, open-source engineering, robotics and software that solves practical problems.
-
-<p align="center">
-  <a href="https://sanjay1712ksk.github.io/">
-    <img src="https://img.shields.io/badge/PORTFOLIO-2F4FD8?style=flat-square&logo=googlechrome&logoColor=white" alt="Portfolio"/>
-  </a>
-  <a href="https://github.com/Sanjay1712KSK">
-    <img src="https://img.shields.io/badge/GITHUB-16171A?style=flat-square&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
-  <a href="https://www.linkedin.com/in/sanjaykumarksk/">
-    <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://medium.com/@sanjayksk1712">
-    <img src="https://img.shields.io/badge/MEDIUM-16171A?style=flat-square&logo=medium&logoColor=white" alt="Medium"/>
-  </a>
-  <a href="https://github.com/Ayan-Crafts">
-    <img src="https://img.shields.io/badge/AYAN_CRAFTS-2F4FD8?style=flat-square&logo=github&logoColor=white" alt="Ayan Crafts"/>
-  </a>
-</p>
-
-<p align="center">
-  <a href="mailto:sanjayksk1712@gmail.com">sanjayksk1712@gmail.com</a>
-</p>
-
-<p align="center">
-  <sub>Designed with intent. Engineered with care.</sub>
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Instrument+Serif&size=25&duration=3500&pause=1200&color=2F4FD8&center=true&vCenter=true&width=600&height=45&lines=Build+something+worth+using.;Make+every+detail+count." alt="Animated closing statement"/>
-</p>
+</div>
