@@ -1,198 +1,163 @@
- <!-- SANJAY KUMAR | GITHUB PROFILE README -->
-
+<!-- ANIMATED HEADER BANNER -->
 <div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:090d16,50:0f2942,100:00e5ff&height=210&section=header&text=Sanjay%20Kumar%20S&fontSize=46&fontColor=ffffff&fontAlignY=38&desc=AI%20Control%20Systems%20%E2%80%A2%20GPU%20Acceleration%20%E2%80%A2%20Full-Stack%20Engineering&descSize=16&descAlignY=58&animation=fadeIn" width="100%" />
+</div>
 
-<!-- MAIN ANIMATED NAME BANNER -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:090979,50:302b63,100:24243e&text=SANJAY%20KUMAR&fontSize=58&fontColor=ffffff&fontAlignY=38&animation=fadeIn&desc=AI%20%26%20ML%20%7C%20COMPUTER%20VISION%20%7C%20ROBOTICS&descSize=16&descAlignY=58&descColor=ddddff" alt="Sanjay Kumar animated banner"/>
+<!-- ANIMATED TYPING TERMINAL -->
+<div align="center">
+  <a href="https://sanjay1712ksk.github.io/">
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&duration=3000&pause=1000&color=00E5FF&center=true&vCenter=true&multiline=false&width=780&height=45&lines=Building+GPS-Denied+Autonomous+Drone+Controllers+%F0%9F%9B%B8;Engineering+CUDA+%26+NVENC+AI+Video+Pipelines+at+Ayan+Crafts+%E2%9A%A1;Developing+Local+LLMs%2C+Computer+Vision+%26+Flutter+Apps+%F0%9F%9A%80;4th-Year+CS+Undergrad+%7C+Open-Source+Contributor+(Cosys-AirSim)+%F0%9F%8C%8D" alt="Typing SVG" />
+  </a>
+</div>
 
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=19&duration=2800&pause=800&color=6C8CFF&center=true&vCenter=true&width=700&lines=Building+intelligent+systems%2C+one+experiment+at+a+time.;Exploring+Computer+Vision+%26+Deep+Learning.;Researching+Autonomous+Systems+%26+Robotics.;Turning+ideas+into+working+engineering." alt="Animated introduction"/>
-</a>
+<!-- SOCIAL & ECOSYSTEM BADGES -->
+<div align="center">
+  <a href="https://sanjay1712ksk.github.io/">
+    <img src="https://img.shields.io/badge/Portfolio-090D16?style=for-the-badge&logo=googlechrome&logoColor=00E5FF" alt="Portfolio" />
+  </a>
+  <a href="https://www.linkedin.com/in/sanjaykumarksk/">
+    <img src="https://img.shields.io/badge/LinkedIn-090D16?style=for-the-badge&logo=linkedin&logoColor=00E5FF" alt="LinkedIn" />
+  </a>
+  <a href="https://medium.com/@sanjayksk1712">
+    <img src="https://img.shields.io/badge/Medium-090D16?style=for-the-badge&logo=medium&logoColor=00E5FF" alt="Medium" />
+  </a>
+  <a href="https://github.com/Ayan-Crafts">
+    <img src="https://img.shields.io/badge/Ayan_Crafts_Org-090D16?style=for-the-badge&logo=github&logoColor=00E5FF" alt="Ayan Crafts" />
+  </a>
+  <a href="https://open.spotify.com/user/31mumbl7iuh2tehksehc23ns7qoq">
+    <img src="https://img.shields.io/badge/Spotify-090D16?style=for-the-badge&logo=spotify&logoColor=1DB954" alt="Spotify" />
+  </a>
+</div>
 
 <br/>
 
-[![Portfolio](https://img.shields.io/badge/PORTFOLIO-Visit-24243e?style=for-the-badge&logo=vercel&logoColor=white)](https://sanjay1712ksk.github.io/)
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sanjaykumarksk/)
-[![Medium](https://img.shields.io/badge/MEDIUM-Read-000000?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@sanjayksk1712)
+<!-- ABOUT ME SECTION -->
+### ⚡ About Me
+I design and build **simulation-driven intelligent systems**, **GPU-accelerated media tools**, and **scalable full-stack AI applications** from system architecture to live deployment.
 
-<img src="https://komarev.com/ghpvc/?username=Sanjay1712KSK&style=flat-square&color=6C8CFF&label=PROFILE+VIEWS" alt="Profile views"/>
+- 🛸 **Autonomous Systems & RL:** Researching GPS-denied drone stabilization and learning-based autonomy using **Cosys-AirSim** and physics-driven simulation.
+- 🎬 **Lead Developer @ [Ayan Crafts](https://github.com/Ayan-Crafts):** Building local, high-performance system software powered by **CUDA FP16, NVENC, Real-ESRGAN, and RIFE**.
+- 🧠 **Applied AI & Edge Systems:** Shipping local LLM/RAG orchestrators, real-time Computer Vision pipelines, and cross-platform **Flutter + FastAPI** products.
+- ✍️ **Technical Writer:** Sharing deep dives on building software from scratch on [Medium](https://medium.com/@sanjayksk1712).
+- 🎯 *“Kuri Vecha Era Vizhanum!” — Thalaivar 🦅*
 
+---
+
+<!-- FEATURED FLAGSHIP PROJECTS -->
+### 🚀 Flagship Engineering & Open-Source Projects
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h4>🛸 <a href="https://github.com/Sanjay1712KSK/Aero-Controllers">Aero-Controllers</a></h4>
+      <p><b>GPS-Denied Autonomous Drone Stabilization</b></p>
+      <p>Reinforcement learning & control pipeline preventing sensor-drift crashes under wind disturbances in <b>Cosys-AirSim</b>. Features <a href="https://sanjay1712ksk.github.io/Aero-Controllers/">live interactive documentation</a>.</p>
+      <code>Reinforcement Learning</code> <code>Cosys-AirSim</code> <code>Control Systems</code>
+    </td>
+    <td width="50%" valign="top">
+      <h4>🎬 <a href="https://github.com/Ayan-Crafts/AI-Video-Upscaler--Powered-by-Nvidia">AI Upscaler Studio (Ayan Crafts)</a></h4>
+      <p><b>NVIDIA-Accelerated Local Video Enhancement</b></p>
+      <p>Desktop studio for local AI video upscaling (<b>Real-ESRGAN</b>) and frame interpolation (<b>RIFE v4.25</b>) utilizing <b>CUDA FP16</b> and hardware <b>NVENC</b> encoding.</p>
+      <code>Python</code> <code>CUDA FP16</code> <code>NVENC</code> <code>Real-ESRGAN</code>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h4>🎞️ <a href="https://github.com/Ayan-Crafts/Frame-Generator">Frame-Generator (Ayan Crafts)</a></h4>
+      <p><b>CUDA Frame Extraction & SAM 2.1 Annotation Suite</b></p>
+      <p>High-throughput FFmpeg + CUDA video frame extractor with timeline trimming, crash-safe resume recovery, and Dockerized <b>SAM 2.1</b> semi-automatic annotation.</p>
+      <code>FFmpeg</code> <code>CUDA</code> <code>SAM 2.1</code> <code>Docker</code>
+    </td>
+    <td width="50%" valign="top">
+      <h4>🤖 <a href="https://github.com/Sanjay1712KSK/LLLMao">LLLMao</a></h4>
+      <p><b>Lightweight Local LLM & RAG Orchestrator</b></p>
+      <p>ChatGPT-style local AI assistant enabling private, offline LLM inference and Retrieval-Augmented Generation workflows.</p>
+      <code>Python</code> <code>Local LLMs</code> <code>RAG</code>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h4>🛡️ <a href="https://github.com/Sanjay1712KSK/CampTech">CampTech (GigShield)</a></h4>
+      <p><b>AI-Powered Parametric Insurance Platform</b></p>
+      <p>Automated risk assessment and parametric micro-insurance platform engineered for gig-economy workers.</p>
+      <code>Flutter</code> <code>Dart</code> <code>Parametric AI</code>
+    </td>
+    <td width="50%" valign="top">
+      <h4>🐄 <a href="https://github.com/Sanjay1712KSK/Cattle-Go">Cattle-Go</a></h4>
+      <p><b>AgriTech Breed Vision & Multilingual RAG</b></p>
+      <p>Real-time Indian zebu cattle breed identification powered by <b>MobileNetV2</b> paired with a multilingual veterinary advisory chatbot.</p>
+      <code>Flutter</code> <code>FastAPI</code> <code>MobileNetV2</code> <code>Computer Vision</code>
+    </td>
+  </tr>
+</table>
+
+<details>
+  <summary><b>📂 More Developer Tooling & Interactive Web Apps (Click to expand)</b></summary>
+  <br/>
+  <ul>
+    <li><b><a href="https://github.com/Sanjay1712KSK">Padayappa Paarvai</a>:</b> Client-side repository structure visualizer converting JSON folder trees into searchable, filterable hierarchies.</li>
+    <li><b><a href="https://github.com/Sanjay1712KSK/Visualization-of-6-Phases-of-Compiler">6 Phases of a Compiler Visualizer</a>:</b> Interactive educational simulation of lexical, syntax, semantic analysis, and code generation.</li>
+    <li><b><a href="https://github.com/KBSanchai/Agro-Visionaries-by-Asteri-PVT">Agro-Visionaries (Contributor)</a>:</b> Responsive React/TypeScript agricultural monitoring dashboard with a conversational AI assistant.</li>
+  </ul>
+</details>
+
+---
+
+<!-- TECH STACK -->
+### 🛠️ Tech Stack & Accelerators
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Python-090D16?style=for-the-badge&logo=python&logoColor=00E5FF" />
+  <img src="https://img.shields.io/badge/C++-090D16?style=for-the-badge&logo=cplusplus&logoColor=00E5FF" />
+  <img src="https://img.shields.io/badge/Dart-090D16?style=for-the-badge&logo=dart&logoColor=00E5FF" />
+  <img src="https://img.shields.io/badge/TypeScript-090D16?style=for-the-badge&logo=typescript&logoColor=00E5FF" />
+  <img src="https://img.shields.io/badge/PyTorch-090D16?style=for-the-badge&logo=pytorch&logoColor=EE4C2C" />
+  <img src="https://img.shields.io/badge/TensorFlow-090D16?style=for-the-badge&logo=tensorflow&logoColor=FF6F00" />
+  <img src="https://img.shields.io/badge/NVIDIA_CUDA-090D16?style=for-the-badge&logo=nvidia&logoColor=76B900" />
+  <img src="https://img.shields.io/badge/OpenCV-090D16?style=for-the-badge&logo=opencv&logoColor=00E5FF" />
+  <img src="https://img.shields.io/badge/FFmpeg-090D16?style=for-the-badge&logo=ffmpeg&logoColor=007808" />
+  <img src="https://img.shields.io/badge/Flutter-090D16?style=for-the-badge&logo=flutter&logoColor=02569B" />
+  <img src="https://img.shields.io/badge/FastAPI-090D16?style=for-the-badge&logo=fastapi&logoColor=009688" />
+  <img src="https://img.shields.io/badge/React-090D16?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/PostgreSQL-090D16?style=for-the-badge&logo=postgresql&logoColor=4169E1" />
+  <img src="https://img.shields.io/badge/Docker-090D16?style=for-the-badge&logo=docker&logoColor=2496ED" />
+  <img src="https://img.shields.io/badge/Ubuntu_Linux-090D16?style=for-the-badge&logo=ubuntu&logoColor=E95420" />
 </div>
 
 ---
 
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:24243e,100:302b63&height=55&section=header&text=01%20%2F%20ABOUT%20ME&fontSize=20&fontColor=ffffff&fontAlign=50" width="100%" alt="About me section banner"/>
-</div>
-
-```python
-class SanjayKumar:
-    def __init__(self):
-        self.education = "B.Tech CSE - AI & ML"
-        self.university = "SRM Institute of Science and Technology"
-        self.interests = [
-            "Artificial Intelligence",
-            "Computer Vision",
-            "Autonomous Systems",
-            "Robotics & Drone Research",
-            "GPU-Accelerated Computing",
-            "Linux & Systems Engineering"
-        ]
-        self.current_focus = [
-            "Learning-based drone navigation",
-            "Industrial computer vision",
-            "Building practical AI applications"
-        ]
-
-    def philosophy(self):
-        return "Understand the problem. Engineer the solution."
-```
-
-I'm a computer science student focused on building and experimenting with intelligent systems. My interests span applied machine learning, computer vision, autonomous systems, and GPU-accelerated applications.
-
-I enjoy working across the complete engineering pipeline — from understanding a problem and developing a model to integrating it into a functional application.
+<!-- LATEST MEDIUM ARTICLES (AUTO-UPDATING VIA GITHUB ACTION) -->
+### ✍️ Latest Writing on Medium
+<!-- BLOG-POST-LIST:START -->
+- [I Wanted to Upscale My Old Videos. So I Built One Under Ayan Crafts.](https://medium.com/developersglobal/i-wanted-to-upscale-my-old-videos-so-i-built-one-under-ayan-crafts-59e1cb8a089a)
+<!-- BLOG-POST-LIST:END -->
 
 ---
 
+<!-- ANALYTICS & CONTRIBUTION SNAKE -->
+### 📊 GitHub Telemetry & Activity
+
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:302b63,100:24243e&height=55&section=header&text=02%20%2F%20WHAT%20I%27M%20WORKING%20ON&fontSize=19&fontColor=ffffff" width="100%" alt="Current work section banner"/>
+  <img height="175" src="https://github-readme-stats.vercel.app/api?username=Sanjay1712KSK&show_icons=true&theme=tokyonight&bg_color=090d16&title_color=00e5ff&icon_color=00e5ff&text_color=c9d1d9&border_color=1f2937&hide_border=false&include_all_commits=true" />
+  <img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sanjay1712KSK&layout=compact&theme=tokyonight&bg_color=090d16&title_color=00e5ff&text_color=c9d1d9&border_color=1f2937&hide_border=false" />
 </div>
 
-| Area | Focus |
-|---|---|
-| **Drone Research** | Reinforcement learning, autonomous flight, and GPS-denied navigation research |
-| **Computer Vision** | Object detection, sports trajectory tracking, and industrial vision systems |
-| **AI Engineering** | Model development, evaluation, inference, and application integration |
-| **Ayan Crafts** | Building practical desktop tools and independent engineering projects |
-
-**Research:** Undergraduate Researcher working with Unreal Engine 5 and Cosys-AirSim on drone simulation and reinforcement learning.
-
-**Research direction:** Learning-aided INS drift suppression for GPS-denied quadrotor flight.
-
----
-
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:24243e,100:302b63&height=55&section=header&text=03%20%2F%20FEATURED%20PROJECTS&fontSize=20&fontColor=ffffff" width="100%" alt="Featured projects section banner"/>
+  <img src="https://streak-stats.demolab.com?user=Sanjay1712KSK&theme=tokyonight&background=090d16&stroke=1f2937&ring=00e5ff&fire=00e5ff&currStreakLabel=00e5ff&sideLabels=c9d1d9&currStreakNum=ffffff&sideNums=ffffff&dates=8b949e" alt="GitHub Streak" />
 </div>
-
-### `01` — Aero-Controllers
-**Autonomous drone simulation and control**
-
-Unreal Engine 5, Cosys-AirSim, Stable-Baselines3, PPO, Python
-
-Exploring reinforcement-learning-based drone control and stabilization in simulated environments.
-
-[Repository ↗](https://github.com/Sanjay1712KSK/Aero-Controllers)
-
-### `02` — AI Video Upscaler
-**GPU-accelerated video enhancement**
-
-PyTorch, CUDA, Real-ESRGAN, RIFE, FFmpeg
-
-A desktop application focused on video upscaling and frame interpolation using GPU-accelerated AI models.
-
-[Repository ↗](https://github.com/Ayan-Crafts/AI-Video-Upscaler--Powered-by-Nvidia)
-
-### `03` — Frame Generator
-**Video processing and dataset preparation**
-
-Python, NVIDIA Video Codec SDK, NVDEC, Computer Vision
-
-A video-processing utility for extracting frames and preparing datasets for computer-vision workflows.
-
-[Repository ↗](https://github.com/Ayan-Crafts/Frame-Generator)
-
-### `04` — LLLMao
-**Local AI workstation**
-
-Python, Ollama, RAG, Local LLMs
-
-An ongoing project exploring locally hosted language models and workspace-aware retrieval-augmented generation.
-
-[Repository ↗](https://github.com/Sanjay1712KSK/LLLMao)
-
-### `05` — Cattle-Go
-**Indian cattle breed identification**
-
-TensorFlow, MobileNetV2, FastAPI, Flutter
-
-An AI-assisted cattle identification project with multilingual application support.
-
-[Repository ↗](https://github.com/Sanjay1712KSK/Cattle-Go)
-
-### `06` — Cypher Guard
-**Security-focused utility toolkit**
-
-Python, FastAPI, AES-GCM
-
-A collection of security utilities covering file encryption and URL, IP, and domain analysis.
-
-[Repository ↗](https://github.com/Sanjay1712KSK/Cypher_Guard)
-
-### `07` — SONORA
-**Offline-first music library application**
-
-Tauri, Rust, SQLite, React
-
-An ongoing desktop application project focused on a locally managed music library.
-
-[Repository ↗](https://github.com/Ayan-Crafts/musiccaddict)
-
----
-
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:302b63,100:24243e&height=55&section=header&text=04%20%2F%20TECHNOLOGY%20STACK&fontSize=20&fontColor=ffffff" width="100%" alt="Technology stack section banner"/>
-
-### Languages
-<img src="https://skillicons.dev/icons?i=python,cpp,c,java,kotlin,rust,js,ts&theme=dark" alt="Programming languages"/>
-
-### AI / Machine Learning
-<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv,sklearn&theme=dark" alt="AI and machine learning tools"/>
-
-### Development & Infrastructure
-<img src="https://skillicons.dev/icons?i=linux,ubuntu,docker,git,github,fastapi,react,flutter&theme=dark" alt="Development tools"/>
-
-### Hardware & Simulation
-<img src="https://skillicons.dev/icons?i=arduino,unreal,blender&theme=dark" alt="Hardware and simulation tools"/>
-</div>
-
----
-
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:24243e,100:302b63&height=55&section=header&text=05%20%2F%20GITHUB%20ACTIVITY&fontSize=20&fontColor=ffffff" width="100%" alt="GitHub activity section banner"/>
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Sanjay1712KSK&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub statistics"/>
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sanjay1712KSK&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top languages"/>
-
-<img width="75%" src="https://streak-stats.demolab.com?user=Sanjay1712KSK&theme=tokyonight&hide_border=true" alt="GitHub contribution streak"/>
-
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Sanjay1712KSK&theme=tokyo-night&hide_border=true" alt="GitHub activity graph"/>
-
-</div>
-
----
-
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:302b63,100:24243e&height=55&section=header&text=06%20%2F%20BEYOND%20THE%20CODE&fontSize=20&fontColor=ffffff" width="100%" alt="Beyond the code section banner"/>
-</div>
-
-- **Ayan Crafts** — Independent engineering initiative focused on practical software tools and applications.
-- **Research & experimentation** — Exploring computer vision, autonomous systems, and applied AI.
-- **Technical writing** — Sharing engineering ideas, project insights, and lessons learned on Medium.
-
----
-
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3000&pause=1000&color=6C8CFF&center=true&vCenter=true&width=600&lines=Thanks+for+visiting+my+profile.;Always+building.+Always+learning." alt="Closing animated message"/>
 
 <br/>
 
-[![GitHub](https://img.shields.io/badge/GitHub-Sanjay1712KSK-181717?style=for-the-badge&logo=github)](https://github.com/Sanjay1712KSK)
-[![Portfolio](https://img.shields.io/badge/Explore-My+Portfolio-302b63?style=for-the-badge&logo=googlechrome&logoColor=white)](https://sanjay1712ksk.github.io/)
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:090979,50:302b63,100:24243e&height=120&section=footer" alt="Animated footer banner"/>
-
+<!-- ANIMATED CONTRIBUTION SNAKE -->
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Sanjay1712KSK/Sanjay1712KSK/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Sanjay1712KSK/Sanjay1712KSK/output/github-contribution-grid-snake.svg" />
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Sanjay1712KSK/Sanjay1712KSK/output/github-contribution-grid-snake-dark.svg" />
+  </picture>
 </div>
 
-<!-- END README -->
+<!-- ANIMATED FOOTER WAVE -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00e5ff,50:0f2942,100:090d16&height=110&section=footer" width="100%" />
+</div>
